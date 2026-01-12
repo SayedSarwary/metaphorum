@@ -1,0 +1,156 @@
+---
+import Layout from '../layouts/Layout.astro';
+import config from '../data/config.json';
+
+const { conference } = config;
+---
+
+<Layout title="Venue">
+	<section class="page-header">
+        <div class="container">
+            <h1>Venue & Travel</h1>
+        </div>
+    </section>
+
+    <section class="content">
+        <div class="container">
+            <div class="venue-main">
+                <h2>{conference.location}</h2>
+                <p>The University of Manchester, Booth Street West, Manchester M15 6PB, United Kingdom</p>
+                
+                <div class="map-container">
+                    <!-- Updated Map Embed for AMBS -->
+                    <iframe 
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2374.821738722345!2d-2.2366810237725914!3d53.4674179723223!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487bb1f21133246f%3A0xe54b9d0e23801046!2sAlliance%20Manchester%20Business%20School!5e0!3m2!1sen!2suk!4v1700000000000!5m2!1sen!2suk" 
+                        width="100%" 
+                        height="450" 
+                        style="border:0;" 
+                        allowfullscreen="" 
+                        loading="lazy" 
+                        referrerpolicy="no-referrer-when-downgrade">
+                    </iframe>
+                </div>
+            </div>
+
+            <div class="travel-info-grid">
+                <div class="travel-section">
+                    <h3>Getting Here</h3>
+                    <ul>
+                        <li><strong>By Air:</strong> Manchester Airport (MAN) is one of the UK’s busiest.
+                            <ul>
+                                <li>Train: Direct to Manchester Piccadilly (15-20 min).</li>
+                                <li>Taxi: 20-30 min to city centre.</li>
+                            </ul>
+                        </li>
+                        <li><strong>By Train:</strong> Piccadilly, Victoria, and Oxford Road are primary stations. Oxford Road is a 15 min walk to AMBS.</li>
+                        <li><strong>By Car:</strong> Accessible via M6, M60, M62. Parking at Booth Street West.</li>
+                    </ul>
+                </div>
+
+                <div class="travel-section">
+                    <h3>Local Transport</h3>
+                    <ul>
+                        <li><strong>Bus:</strong> Most routes serve Oxford Road. Nearest stop: University Shopping Centre.</li>
+                        <li><strong>Tram:</strong> Nearest stop St Peter's Square (22 min walk).</li>
+                        <li><strong>Cycling:</strong> Dedicated lanes on Oxford Road.</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="accommodation-section">
+                <h2>Accommodation</h2>
+                <div class="hotel-grid">
+                    <div class="hotel-category">
+                        <h3>5 Star</h3>
+                        <ul>
+                            <li>The Edwardian Manchester (1 mile)</li>
+                            <li>Hotel Gotham (1.2 miles)</li>
+                        </ul>
+                    </div>
+                    <div class="hotel-category">
+                        <h3>4 Star</h3>
+                        <ul>
+                            <li><strong>Hyatt Regency Manchester</strong> (1-min walk) - <em>Recommended</em></li>
+                            <li>Crowne Plaza Manchester (1.6 miles)</li>
+                        </ul>
+                    </div>
+                    <div class="hotel-category">
+                        <h3>3 Star</h3>
+                        <ul>
+                            <li>Holiday Inn Express Oxford Road (0.6 miles)</li>
+                            <li>Premier Inn Princess Street (0.5 miles)</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="attractions-section">
+                <h2>Local Attractions</h2>
+                <p>Manchester is vibrant and historic. Don't miss:</p>
+                <ul>
+                    <li>Manchester Museum (On Campus)</li>
+                    <li>Whitworth Art Gallery (0.6 miles)</li>
+                    <li>John Rylands Library (1.2 miles)</li>
+                    <li>The Northern Quarter - Creative hub</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+</Layout>
+
+<style>
+    .page-header {
+        background: var(--color-primary);
+        color: white;
+        padding: 3rem 0;
+    }
+
+    .venue-main {
+        margin-bottom: 3rem;
+    }
+
+    .map-container {
+        margin-top: 1.5rem;
+        background: #eee;
+        min-height: 450px;
+    }
+
+    .travel-info-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 2rem;
+        margin-bottom: 3rem;
+    }
+
+    .travel-section {
+        background: var(--color-background-alt);
+        padding: 1.5rem;
+        border-radius: 8px;
+    }
+
+    .travel-section h3 {
+        margin-top: 0;
+    }
+
+    .hotel-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 2rem;
+    }
+
+    .hotel-category ul {
+        list-style: none;
+        padding: 0;
+    }
+
+    .hotel-category li {
+        margin-bottom: 0.5rem;
+        font-size: 0.95rem;
+    }
+
+    @media (max-width: 768px) {
+        .travel-info-grid {
+            grid-template-columns: 1fr;
+        }
+    }
+</style>

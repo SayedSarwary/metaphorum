@@ -1,0 +1,22 @@
+{
+  "conference": {
+    "name": "Metaphorum 2026",
+    "fullName": "100 Years of Stafford Beer - Metaphorum Conference 2026",
+    "year": 2026,
+    "dates": "September 17-19, 2026",
+    "location": "Alliance Manchester Business School, Manchester",
+    "description": "Celebrating the legacy of Stafford Beer and future developments in Organisational Cybernetics.",
+    "contactEmail": "info@metaphorum2026.org"
+  },
+  "links": {
+    "register": "/register",
+    "abstracts_email": "abstracts@metaphorum2026.org",
+    "drive_folder": "#"
+  },
+  "fees": {
+    "early_bird": "TBC",
+    "standard": "TBC",
+    "student": "TBC",
+    "online": "TBC"
+  }
+}

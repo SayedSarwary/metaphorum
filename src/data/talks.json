@@ -1,0 +1,18 @@
+[
+    {
+        "id": "talk1",
+        "title": "Modern Patterns in Flu Outbreaks",
+        "abstract": "Analysis of the last decade of flu trends...",
+        "speaker_id": "s1",
+        "track_id": "t1",
+        "duration_minutes": 45
+    },
+    {
+        "id": "talk2",
+        "title": "Effective Clinical Interventions",
+        "abstract": "A look at what works in the field...",
+        "speaker_id": "s2",
+        "track_id": "t2",
+        "duration_minutes": 60
+    }
+]

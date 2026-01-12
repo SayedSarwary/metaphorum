@@ -1,0 +1,46 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import SpeakerCard from '../../components/SpeakerCard.astro';
+import speakers from '../../data/speakers.json';
+
+// Sort speakers alphabetically by name
+const sortedSpeakers = [...speakers].sort((a, b) => a.full_name.localeCompare(b.full_name));
+---
+
+<Layout title="Speakers">
+	<section class="page-header">
+        <div class="container">
+            <h1>Speakers</h1>
+        </div>
+    </section>
+
+    <section class="content">
+        <div class="container">
+            <div class="speakers-grid">
+                {sortedSpeakers.map(speaker => (
+                    <SpeakerCard 
+                        id={speaker.id}
+                        name={speaker.full_name}
+                        affiliation={speaker.affiliation}
+                        photoUrl={speaker.photo_url}
+                    />
+                ))}
+            </div>
+        </div>
+    </section>
+</Layout>
+
+<style>
+    .page-header {
+        background: var(--color-primary);
+        color: white;
+        padding: 3rem 0;
+    }
+
+    .speakers-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+        gap: 2rem;
+        margin-top: 2rem;
+    }
+</style>

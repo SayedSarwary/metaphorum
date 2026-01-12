@@ -1,0 +1,174 @@
+---
+import Layout from '../layouts/Layout.astro';
+import config from '../data/config.json';
+
+const { conference } = config;
+---
+
+<Layout title="Home">
+	<section class="hero">
+        <div class="container hero-content">
+            <h1>100 Years of Stafford Beer</h1>
+            <p class="hero-subtitle">Celebrating his Legacy and Future Developments</p>
+            <p class="hero-date">{conference.dates}</p>
+            <p class="hero-location">{conference.location}</p>
+            <div class="hero-actions">
+                <a href="/register" class="btn">Registration Information</a>
+                <a href="/about" class="btn btn-secondary">About the Conference</a>
+            </div>
+        </div>
+	</section>
+
+    <section class="intro">
+        <div class="container">
+            <h2>A Global Centenary Celebration</h2>
+            <p class="lead">On 25 September 2026, Stafford Beer, the Father of Organisational Cybernetics, would have turned 100. To mark this milestone, the Metaphorum Cooperative is leading a global centenary celebration of his life and his contributions to science, business, and society.</p>
+            
+            <div class="features-grid">
+                <div class="feature highlight">
+                    <h3>Conference Highlights</h3>
+                    <ul>
+                        <li><strong>Documentary Screening:</strong> ‘100 Years of Stafford Beer’</li>
+                        <li><strong>Festschrift Book Launch:</strong> Summarizing Stafford’s legacy</li>
+                        <li><strong>Journal Launch:</strong> Metaphorum Journal ‘Organisational Systems’</li>
+                        <li><strong>Creative Contributions:</strong> Music, poetry, and arts</li>
+                    </ul>
+                </div>
+                <div class="feature venue-brief">
+                    <h3>Hosted At</h3>
+                    <p><strong>Alliance Manchester Business School (AMBS)</strong></p>
+                    <p>In collaboration with the World Organization for Systems and Cybernetics (WOSC) and the Centre for Systems Studies (University of Hull).</p>
+                    <a href="/venue">View Venue & Travel Info &rarr;</a>
+                </div>
+            </div>
+
+             <div class="important-info">
+                <h3>Key Dates</h3>
+                <div class="dates-list">
+                    <div class="date-item">
+                        <span class="date-label">Registration Opens</span>
+                        <span class="date-value">January 2026</span>
+                    </div>
+                    <div class="date-item">
+                        <span class="date-label">Conference</span>
+                        <span class="date-value">Sept 17-19, 2026</span>
+                    </div>
+                     <div class="date-item">
+                        <span class="date-label">Stafford's 100th Birthday</span>
+                        <span class="date-value">Sept 25, 2026</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</Layout>
+
+<style>
+    .hero {
+        background-color: var(--color-primary);
+        color: white;
+        padding: 5rem 0;
+        text-align: center;
+    }
+
+    .hero h1 {
+        color: white;
+        font-size: 3rem;
+        margin-bottom: 0.5rem;
+    }
+
+    .hero-subtitle {
+        font-size: 1.5rem;
+        font-style: italic;
+        opacity: 0.9;
+        margin-bottom: 2rem;
+        font-family: var(--font-heading);
+    }
+
+    .hero-date, .hero-location {
+        font-size: 1.2rem;
+        margin-bottom: 0.5rem;
+    }
+
+    .hero-actions {
+        margin-top: 2rem;
+        display: flex;
+        gap: 1rem;
+        justify-content: center;
+    }
+
+    .lead {
+        font-size: 1.25rem;
+        max-width: 900px;
+        margin-bottom: 3rem;
+        font-weight: 300;
+        line-height: 1.7;
+    }
+
+    .features-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        gap: 2rem;
+        margin-bottom: 3rem;
+    }
+
+    .feature {
+        background: var(--color-background-alt);
+        padding: 2rem;
+        border-radius: 8px;
+        border: 1px solid var(--color-border);
+    }
+
+    .feature h3 {
+        margin-top: 0;
+        color: var(--color-primary);
+    }
+
+    .highlight ul {
+        list-style: none;
+        padding: 0;
+    }
+
+    .highlight li {
+        margin-bottom: 0.75rem;
+        padding-left: 1.25rem;
+        position: relative;
+    }
+
+    .highlight li::before {
+        content: "•";
+        color: var(--color-accent);
+        position: absolute;
+        left: 0;
+        font-weight: bold;
+    }
+
+    .important-info {
+        border-top: 1px solid var(--color-border);
+        padding-top: 3rem;
+    }
+
+    .dates-list {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 3rem;
+    }
+
+    .date-item {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .date-label {
+        font-size: 0.85rem;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        color: var(--color-text-light);
+    }
+
+    .date-value {
+        font-size: 1.1rem;
+        font-weight: 600;
+        color: var(--color-primary);
+    }
+</style>

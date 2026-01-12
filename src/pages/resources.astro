@@ -1,0 +1,45 @@
+---
+import Layout from '../layouts/Layout.astro';
+import config from '../data/config.json';
+
+const { links } = config;
+---
+
+<Layout title="Resources">
+	<section class="page-header">
+        <div class="container">
+            <h1>Resources</h1>
+        </div>
+    </section>
+
+    <section class="content">
+        <div class="container">
+            <p>Access conference materials, papers, and slide decks here. We will update this folder throughout the event.</p>
+
+            <div class="resource-card">
+                <h3>Conference Archives</h3>
+                <p>All abstracts, CVs, and presentation slides are hosted on our shared Google Drive.</p>
+                <a href={links.drive_folder} target="_blank" class="btn">
+                    Access Drive Folder &rarr;
+                </a>
+            </div>
+        </div>
+    </section>
+</Layout>
+
+<style>
+    .page-header {
+        background: var(--color-primary);
+        color: white;
+        padding: 3rem 0;
+    }
+
+    .resource-card {
+        background: var(--color-background-alt);
+        padding: 2rem;
+        border-radius: 8px;
+        border: 1px solid var(--color-border);
+        max-width: 600px;
+        margin-top: 2rem;
+    }
+</style>

@@ -1,0 +1,27 @@
+[
+    {
+        "id": "s1",
+        "full_name": "Dr. Alice Smith",
+        "affiliation": "University of Medicine",
+        "bio": "Expert in Epidemiology with over 20 years of experience.",
+        "photo_url": "https://i.pravatar.cc/300?u=s1",
+        "email": "alice@example.com"
+    },
+    {
+        "id": "s2",
+        "full_name": "Prof. Bob Jones",
+        "affiliation": "Global Health Institute",
+        "bio": "Leading researcher in tropical diseases.",
+        "photo_url": "https://i.pravatar.cc/300?u=s6",
+        "email": "bob@example.com"
+    },
+
+      {
+        "id": "s3",
+        "full_name": "Prof. John Walson",
+        "affiliation": "Manchester University",
+        "bio": "Leading researcher in Cybernetics.",
+        "photo_url": "https://i.pravatar.cc/300?u=s4",
+        "email": "john@example.com"
+    }
+]

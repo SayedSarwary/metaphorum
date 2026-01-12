@@ -1,0 +1,12 @@
+[
+    {
+        "id": "t1",
+        "name": "Epidemiology",
+        "description": "Studies on disease patterns and public health."
+    },
+    {
+        "id": "t2",
+        "name": "Clinical Practice",
+        "description": "Hands-on approaches and case studies."
+    }
+]

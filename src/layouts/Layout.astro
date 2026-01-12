@@ -1,0 +1,174 @@
+---
+import '../styles/global.css';
+import config from '../data/config.json';
+import Link from '../components/Link.astro';
+
+interface Props {
+	title: string;
+}
+
+const { title } = Astro.props;
+const { conference } = config;
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="description" content={conference.description} />
+		<meta name="viewport" content="width=device-width" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+		<meta name="generator" content={Astro.generator} />
+		<title>{title} | {conference.name}</title>
+	</head>
+	<body>
+		<header class="site-header">
+			<div class="container header-inner">
+				<a href="/" class="site-logo">
+					<span class="logo-text">{conference.name}</span>
+				</a>
+				<nav class="site-nav">
+                    <ul>
+                        <li><Link href="/">Home</Link></li>
+                        <li><Link href="/about">About</Link></li>
+                        <li><Link href="/schedule">Schedule</Link></li>
+                        <li><Link href="/speakers">Speakers</Link></li>
+                        <li><Link href="/abstracts">Call for Abstracts</Link></li>
+                        <li><Link href="/venue">Venue</Link></li>
+                        <li><Link href="/resources">Resources</Link></li>
+                        <li><a href="/register" class="btn-api-nav">Register</a></li>
+                    </ul>
+				</nav>
+                <button id="menu-toggle" aria-label="Toggle Menu">
+                    <span class="hamburger"></span>
+                </button>
+			</div>
+		</header>
+		<main>
+			<slot />
+		</main>
+		<footer class="site-footer">
+            <div class="container">
+			    <p>&copy; {new Date().getFullYear()} {conference.fullName}. All rights reserved.</p>
+                <div class="footer-contact">
+                    <p>Contact: <a href={`mailto:${conference.contactEmail}`}>{conference.contactEmail}</a></p>
+                </div>
+            </div>
+		</footer>
+
+        <script>
+            // Simple mobile menu toggle
+            const toggle = document.getElementById('menu-toggle');
+            const nav = document.querySelector('.site-nav');
+            toggle?.addEventListener('click', () => {
+                nav?.classList.toggle('active');
+            });
+        </script>
+	</body>
+</html>
+
+<style>
+	.site-header {
+		background: white;
+		box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+		position: sticky;
+		top: 0;
+		z-index: 100;
+	}
+
+    .header-inner {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        height: 80px;
+    }
+
+    .site-logo {
+        font-family: var(--font-heading);
+        font-weight: 700;
+        font-size: 1.5rem;
+        color: var(--color-primary);
+        text-decoration: none;
+    }
+
+    .site-nav ul {
+        display: flex;
+        gap: 1.5rem;
+        list-style: none;
+        align-items: center;
+        margin: 0;
+        padding: 0;
+    }
+
+    .site-nav a {
+        color: var(--color-text);
+        font-weight: 500;
+        text-decoration: none;
+    }
+    
+    .site-nav a:hover, .site-nav a.active {
+        color: var(--color-secondary);
+    }
+
+    .btn-api-nav {
+        background-color: var(--color-secondary);
+        color: white !important;
+        padding: 0.5rem 1rem;
+        border-radius: 4px;
+    }
+
+    .btn-api-nav:hover {
+        background-color: var(--color-primary);
+    }
+
+    #menu-toggle {
+        display: none;
+        background: none;
+        border: none;
+        cursor: pointer;
+    }
+
+    /* Mobile Styles */
+    @media (max-width: 768px) {
+        #menu-toggle {
+            display: block;
+        }
+
+        .site-nav {
+            position: absolute;
+            top: 80px;
+            left: 0;
+            width: 100%;
+            background: white;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            display: none;
+            padding: 1rem 0;
+        }
+
+        .site-nav.active {
+            display: block;
+        }
+
+        .site-nav ul {
+            flex-direction: column;
+            gap: 1rem;
+            text-align: center;
+        }
+    }
+
+    .site-footer {
+        background: var(--color-primary);
+        color: white;
+        padding: 2rem 0;
+        margin-top: auto;
+        text-align: center;
+    }
+
+    .site-footer a {
+        color: white;
+        text-decoration: underline;
+    }
+</style>

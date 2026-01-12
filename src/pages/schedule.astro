@@ -1,0 +1,214 @@
+---
+import Layout from '../layouts/Layout.astro';
+import schedule from '../data/schedule.json';
+import talks from '../data/talks.json';
+import speakers from '../data/speakers.json';
+import tracks from '../data/tracks.json';
+
+// Helper to join data
+const getScheduleWithDetails = () => {
+    return schedule.map(item => {
+        const talk = talks.find(t => t.id === item.talk_id);
+        const speaker = speakers.find(s => s.id === talk?.speaker_id);
+        const track = tracks.find(t => t.id === talk?.track_id);
+        
+        return {
+            ...item,
+            talk,
+            speaker,
+            track
+        };
+    }).sort((a, b) => {
+        // Sort by date, then time
+        const dateA = new Date(`${a.day}T${a.start_time}`);
+        const dateB = new Date(`${b.day}T${b.start_time}`);
+        return dateA.getTime() - dateB.getTime();
+    });
+};
+
+const fullSchedule = getScheduleWithDetails();
+
+// Group by Day
+const groupedByDay = fullSchedule.reduce((acc, item) => {
+    const day = item.day;
+    if (!acc[day]) acc[day] = [];
+    acc[day].push(item);
+    return acc;
+}, {} as Record<string, typeof fullSchedule>);
+
+const days = Object.keys(groupedByDay).sort();
+
+function formatDate(dateStr: string) {
+    const options: Intl.DateTimeFormatOptions = { weekday: 'long', month: 'long', day: 'numeric' };
+    return new Date(dateStr).toLocaleDateString('en-US', options);
+}
+
+function formatTime(timeStr: string) {
+    // Assuming HH:MM 24h format, convert to 12h AM/PM
+    const [hour, minute] = timeStr.split(':');
+    const h = parseInt(hour, 10);
+    const ampm = h >= 12 ? 'PM' : 'AM';
+    const h12 = h % 12 || 12;
+    return `${h12}:${minute} ${ampm}`;
+}
+---
+
+<Layout title="Schedule">
+	<section class="page-header">
+        <div class="container">
+            <h1>Conference Schedule</h1>
+        </div>
+    </section>
+
+    <section class="content">
+        <div class="container">
+            {days.map(day => (
+                <div class="schedule-day">
+                    <h2 class="day-header">{formatDate(day)}</h2>
+                    <div class="timeline">
+                        {groupedByDay[day].map(item => (
+                            <div class="schedule-item" id={item.talk?.id}>
+                                <div class="time-col">
+                                    <span class="start-time">{formatTime(item.start_time)}</span>
+                                    <span class="end-time">{formatTime(item.end_time)}</span>
+                                </div>
+                                <div class="details-col">
+                                    <div class="track-tag" style="background-color: var(--color-background-alt)">
+                                        {item.track?.name || 'General Session'}
+                                    </div>
+                                    <h3 class="talk-title">{item.talk?.title}</h3>
+                                    {item.speaker && (
+                                        <p class="speaker-name">
+                                            Speaker: <a href={`/speakers/${item.speaker.id}`}>{item.speaker.full_name}</a>
+                                        </p>
+                                    )}
+                                    <p class="room-location">📍 {item.room}</p>
+                                    {item.talk?.abstract && (
+                                        <details>
+                                            <summary>View Abstract</summary>
+                                            <p class="abstract-text">{item.talk.abstract}</p>
+                                        </details>
+                                    )}
+                                </div>
+                            </div>
+                        ))}
+                    </div>
+                </div>
+            ))}
+        </div>
+    </section>
+</Layout>
+
+<style>
+    .page-header {
+        background: var(--color-primary);
+        color: white;
+        padding: 3rem 0;
+    }
+
+    .schedule-day {
+        margin-bottom: 4rem;
+    }
+
+    .day-header {
+        border-bottom: 2px solid var(--color-border);
+        padding-bottom: 0.5rem;
+        margin-bottom: 2rem;
+        color: var(--color-primary);
+    }
+
+    .timeline {
+        display: flex;
+        flex-direction: column;
+        gap: 1.5rem;
+    }
+
+    .schedule-item {
+        display: grid;
+        grid-template-columns: 150px 1fr;
+        gap: 2rem;
+        background: white;
+        padding: 1.5rem;
+        border: 1px solid var(--color-border);
+        border-radius: 8px;
+        transition: box-shadow 0.2s;
+    }
+
+    .schedule-item:hover {
+        box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+    }
+
+    .time-col {
+        display: flex;
+        flex-direction: column;
+        text-align: right;
+        font-weight: 600;
+        color: var(--color-secondary);
+    }
+
+    .end-time {
+        font-size: 0.9rem;
+        color: var(--color-text-light);
+        font-weight: 400;
+    }
+
+    .track-tag {
+        display: inline-block;
+        padding: 0.25rem 0.75rem;
+        border-radius: 100px;
+        font-size: 0.8rem;
+        font-weight: 600;
+        color: var(--color-text-light);
+        margin-bottom: 0.5rem;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+    }
+
+    .talk-title {
+        margin-top: 0;
+        font-size: 1.25rem;
+        margin-bottom: 0.5rem;
+    }
+
+    .speaker-name {
+        margin-bottom: 0.5rem;
+        font-weight: 500;
+    }
+
+    .room-location {
+        color: var(--color-text-light);
+        font-size: 0.9rem;
+        margin-bottom: 0.5rem;
+    }
+
+    details {
+        margin-top: 0.5rem;
+        font-size: 0.9rem;
+        cursor: pointer;
+    }
+
+    summary {
+        color: var(--color-secondary);
+        font-weight: 500;
+    }
+    
+    .abstract-text {
+        margin-top: 0.5rem;
+        color: var(--color-text);
+        line-height: 1.5;
+    }
+
+    @media (max-width: 768px) {
+        .schedule-item {
+            grid-template-columns: 1fr;
+            gap: 0.5rem;
+        }
+
+        .time-col {
+            flex-direction: row;
+            gap: 1rem;
+            text-align: left;
+            margin-bottom: 0.5rem;
+        }
+    }
+</style>

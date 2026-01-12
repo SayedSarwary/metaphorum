@@ -1,0 +1,18 @@
+[
+    {
+        "id": "sch1",
+        "talk_id": "talk1",
+        "day": "2026-10-12",
+        "start_time": "09:00",
+        "end_time": "09:45",
+        "room": "Hall A"
+    },
+    {
+        "id": "sch2",
+        "talk_id": "talk2",
+        "day": "2026-10-12",
+        "start_time": "10:00",
+        "end_time": "11:00",
+        "room": "Hall B"
+    }
+]
