@@ -333,7 +333,7 @@
     "full_name": "Miguel Garcia Matas",
     "affiliation": "University of Edinburgh",
     "bio": "Miguel Garcia Matas is a PhD candidate at the University of Edinburgh, currently at the VIVA stage, specialising in Financial Technology. His industrial PhD thesis examined the intersection of two-sided markets and tokenomics, using a cybernetic approach to develop agent-based simulations for analysing platform viability and governance. He also teaches Economics for Business and Principles of Management at the undergraduate level.",
-    "photo_url": "/images/blank_400x400.png"
+    "photo_url": "/images/Miguel_Garcia_Matas.jpeg"
 },
 {
     "id": "s54",
@@ -390,5 +390,12 @@
     "affiliation": "",
     "bio": "Andrew Pickering is a leading figure in science and technology studies. He taught for many years at the University of Illinois at Urbana-Champaign before returning to England. He retired from the University of Exeter in 2015 and is now an emeritus professor there in the department of sociology, philosophy and anthropology. He has written on topics as diverse as post-World War II particle physics, mathematics, science and industry in the 19th-century, science, technology and warfare in and since WWII, cybernetics, and our relations with nature and the environment. His writings have been translated into several languages, and his books include Constructing Quarks: A Sociological History of Particle Physics (University of Chicago Press, 1984), The Mangle of Practice: Time, Agency and Science (University of Chicago Press, 1995), The Cybernetic Brain: Sketches of Another Future (University of Chicago Press, 2010) and, most recently, emActing with the World: Agency in the Anthropocene (Duke University Press, 2025).",
     "photo_url": "/images/Andrew_Pickering.jpeg"
+},
+{
+    "id": "s62",
+    "full_name": "Krishan Mathis",
+    "affiliation": "",
+    "bio": "Sensemaking for leaders when management stops working. Author of The Tautai Principle · Complexity · Cybernetics",
+    "photo_url": "/images/blank_400x400.png"
 }
 ]
