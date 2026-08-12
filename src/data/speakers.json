@@ -441,13 +441,6 @@
     "photo_url": "/images/blank_400x400.png"
 },
 {
-    "id": "s69",
-    "full_name": "Pedram Farschtschian",
-    "affiliation": "",
-    "bio": "",
-    "photo_url": "/images/blank_400x400.png"
-},
-{
     "id": "s70",
     "full_name": "Robin Asby",
     "affiliation": "",
@@ -495,4 +488,12 @@
     "affiliation": "",
     "bio": "",
     "photo_url": "/images/blank_400x400.png"
-}]
+},
+{
+    "id": "s77",
+    "full_name": "Louis Harel",
+    "affiliation": "pims.ai | malik",
+    "bio": "Louis is a Senior Associate at pims.ai | malik, based in the firm’s London office and working in its Predictive Analytics practice. His work centres on evidence-based strategy: using six decades of PIMS data to give organisations an objective assessment of their operational and strategic position, and to ground customer and market decisions in empirical benchmarks rather than internal assumption. More recently he has focused on a quantitative reworking of Stafford Beer’s operations room. Where Beer’s design expressed performance as a triple index of Actuality, Capability and Potentiality but could set its reference points only from within the system, Louis’s work anchors them externally — drawing on the PIMS evidence base to show a business what comparable firms have achieved from a similar position, and giving the operations room an external empirical grounding that Beer. It situates the PIMS models within the management-cybernetics tradition of the Viable System Model and the St Gallen lineage behind Malik Management. Louis holds an MSc in Management from the London School of Economics.",
+    "photo_url": "/images/Louis_Harel.jpeg"
+}
+]
