@@ -64,7 +64,7 @@
 },
 {
     "id": "s11",
-    "full_name": "Germán A. Bula",
+    "full_name": "Germán A. Bula Escobar",
     "affiliation": "Universidad del Rosario,Colombia",
     "bio": "An attorney (Universidad del Rosario - Colombia). He holds a doctorate and master's degree in Ethics and Democracy from the University of Valencia (Spain), master’s degrees in economics (National University of Colombia) and in Political Science (IAEE - Madrid). His research lines focus on truth studies and peacebuilding, as well as organizational cybernetics applied to law and public administration. Serves as an arbitrator at the Arbitration Centers of the Chambers of Commerce of Bogotá, Barranquilla, Cartagena, and Pereira. Within the Council of State of Colombia, he has held the positions of President, Magistrate of the Consultation and Civil Service Chamber, and Ad Hoc Justice of the Council of State. He has served as Minister of Education, as well as Deputy Comptroller General of the Republic of Colombia, Ambassador to Venezuela, and Director of the World Center for Research and Training in Conflict Resolution. An active member of WOSC, the Colombian Academy of Jurisprudence, the Ibero-American Forum of Administrative Law (FIDA), and the Franco-Colombian Association of Jurists (AJFC). Author of some books and papers. He serves as a reviewer for international   journals.  During his professional career he was a professor at several universities, international lecturer, organizational consultant, and litigator. ",
     "photo_url": "/images/german.jpg"
@@ -444,8 +444,8 @@
     "id": "s70",
     "full_name": "Robin Asby",
     "affiliation": "",
-    "bio": "",
-    "photo_url": "/images/blank_400x400.png"
+    "bio": "Robin Asby is a writer and researcher, and a retired academic, entrepreneur, and consultant, author of ‘Thinking Systems: an organic language of harmony for human survival‘, published by Triachy Press in 2021. I obtained a degree in Mathematics from Cambridge University (1965), and a PhD from London University in Mathematical Physics (1968). In my career I have held posts in a number of UK universities and one in the United States. I spent 16 years training teachers, and have also worked for a short time in information technology. My major research interest has been in the development of understanding of Systems Thinking, and its underpinning philosophy. I am currently working on two projects. The first of these projects is to investigate how we can build a truly democratic governing system; that is a governing system to which everyone can contribute and which uses everyone’s expertise. The second project is to better explain the central thesis of my book, which is that Western Society has eschewed process thinking to its detriment.  ",
+    "photo_url": "/Robin_Asby.jpeg"
 },
 {
     "id": "s71",
@@ -495,5 +495,40 @@
     "affiliation": "pims.ai | malik",
     "bio": "Louis is a Senior Associate at pims.ai | malik, based in the firm’s London office and working in its Predictive Analytics practice. His work centres on evidence-based strategy: using six decades of PIMS data to give organisations an objective assessment of their operational and strategic position, and to ground customer and market decisions in empirical benchmarks rather than internal assumption. More recently he has focused on a quantitative reworking of Stafford Beer’s operations room. Where Beer’s design expressed performance as a triple index of Actuality, Capability and Potentiality but could set its reference points only from within the system, Louis’s work anchors them externally — drawing on the PIMS evidence base to show a business what comparable firms have achieved from a similar position, and giving the operations room an external empirical grounding that Beer. It situates the PIMS models within the management-cybernetics tradition of the Viable System Model and the St Gallen lineage behind Malik Management. Louis holds an MSc in Management from the London School of Economics.",
     "photo_url": "/images/Louis_Harel.jpeg"
+},
+{
+    "id": "s78",
+    "full_name": "Angus Jenkinson",
+    "affiliation": "Cybernetics Society",
+    "bio": "Angus Jenkinson is retired full research professor whose research domain was the individualisation of value propositions by coherent enterprises. He was also influential as a tech and business designer and strategic consultant in this field. He has created multiple tools including Virtuoso, a coherent identity frame. He is a Life Fellow of the Cybernetics Society and its former Secretary revitalising its mission. He cooperates as a research fellow of Vrije Universiteit Brussel (VUB) and in Thinking.Institute.",
+    "photo_url": "/images/Angus_Jenkinson.png"
+},
+{
+    "id": "s79",
+    "full_name": "Fabiana Sepe",
+    "affiliation": "Department of Economics, Management, Institutions, University of Naples Federico II",
+    "bio": "Fabiana Sepe, PhD, is an assistant professor at the Department of Economics, Management, Institutions, University of Naples Federico II. She is author of some book chapters and articles on national and international journals in the fields of management, tourism, and agri-food industry. She has attended several national and international conferences with co-authored papers. Her main research interests include but are not limited to knowledge management, strategy, consumer behaviour and artificial intelligence, concentrating upon the application of open innovation perspectives.",
+    "photo_url": "/images/"
+},
+{
+    "id": "s80",
+    "full_name": "Francesco Caputo",
+    "affiliation": "Department of Economics, Management, and Institutions (DEMI) of the University of Naples",
+    "bio": "Francesco Caputo, Ph.D., is an Associate Professor of Business Management at the Department of Economics, Management, and Institutions (DEMI) of the University of Naples Federico II. He is the President of ASVSA (Association for Research on Viable Systems) and Co-Director General of WOSC (World Organization of Systems and Cybernetics). He serves on the editorial boards of numerous international scientific journals and acts as a reviewer for several Italian and international journals. He was a finalist for the 2012/2013 Emerald/EMRBI Business Research Award and has received numerous scientific accolades, including the Tenth Most Cited Article in 2019 JOB Impact Factor Award, the Best Paper Award at the 10th Naples Forum on Service, and the Best Paper Nomination at the 9th International Conference IESS 2018. He is the author of over 180 publications, including books, scientific articles, conference proceedings, and abstracts. His main research interests include, among others, complexity, knowledge management, and systems thinking.",
+    "photo_url": "/images/Francesco_Caputo.jpeg"
+},
+{
+    "id": "s81",
+    "full_name": "Alejandro Fernandez",
+    "affiliation": "",
+    "bio": "",
+    "photo_url": "/images/blank_400x400.png"
+},
+{
+    "id": "s82",
+    "full_name": "Benjamin Wood",
+    "affiliation": "",
+    "bio": "",
+    "photo_url": "/images/blank_400x400.png"
 }
 ]
