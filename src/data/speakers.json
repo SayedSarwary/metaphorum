@@ -189,88 +189,11 @@
     "photo_url": "/images/Mateus_van_Stralen.jpeg"
 },
 {
-    "id": "s30",
-    "full_name": "Jose S. Cabral Filho",
-    "affiliation": "Federal University of Minas Gerais (Brazil)",
-    "bio": "Jose S. Cabral Filho is an architect and a semi-retired professor at the School of Architecture at the Federal University of Minas Gerais (Brazil). His research focuses on the liberating potential of technology, seeking a far-reaching adoption of play in digital design, using games as a framework for the coexistence of determinism and non-determinism. His main interests include the philosophy of Vilém Flusser, Second-Order Cybernetics, as well as architectural-performance and electronic music.",
-    "photo_url": "/images/Jose_Cabral.jpeg"
-},
-{
-    "id": "s32",
-    "full_name": "Andreas Slogar",
-    "affiliation": "",
-    "bio": "Andreas Slogar is an experter in management cybernetics and AI-centred enterprise transformation, as well as the author of numerous specialist articles, podcasts, and the books “The agile Organisation” (Hanser, 2018, 2020), “Liquid Leadership – Management Handbook for self-organized cooperation” (Schäffer-Poeschel, 2024) and ”Handbook agile Transformation” (Schäffer-Poeschel, 2025). He is also a speaker, keynote presenter, podcaster and curator at numerous international conferences.",
-    "photo_url": "/images/Andreas_Slogar.png"
-},
-{
-    "id": "s33",
-    "full_name": "Ricardo Vega Mora",
-    "affiliation": "Pontificia Universidad Católica de Chile (PUC)",
-    "bio": "Ricardo is a designer, artist, programmer and cultural manager. Ricardo holds MFA Design and Technology (Parsons, The New School), with studies in Information Visualisation and Data Science. He is a professor at the School of Design, and has taught at the School of Engineering, both at Pontificia Universidad Católica de Chile (PUC).  He directs the UC Design Data Visualisation Diploma. He is interested in transdisciplinary links, carrying out studies in Philosophy and Sciences. He develops projects at the intersection between visualization, graphics, programming, art and design, exploring the aesthetic representation of data. He is the founder of C80.cl, a project that, since 2015 has used visualisations to support the contextualized understanding of the Chilean Constitution of 1980. He founded Artnumerica.info, oriented to algorithmic design and data visualization. As an artist, he has participated in exhibitions, conferences and presentations in Chile, Argentina, Brazil, Spain, and Estonia. Currently, he is pursuing a PhD in Computational Engineering (double degree) at PUC (Chile) & University of Edinburgh (Scotland).",
-    "photo_url": "/images/Ricardo_Vega_Mora.jpeg"
-},
-{
-    "id": "s34",
-    "full_name": "Vijaya Manchem",
-    "affiliation": "",
-    "bio": "Vijaya Manchem is an independent systems practitioner with interests in systems thinking, and organisational design. Her current work focuses on how Stafford Beer’s Viable System Model can be applied within educational organisations through digital platforms, enabling organisational structures and management processes to operate more coherently in practice. Drawing on experience across the education sector, including apprenticeship provision, curriculum design, governance, and quality assurance, she is interested in the practical challenges of translating systemic concepts into everyday practice. Vijaya holds an MSc in Engineering, a Postgraduate Certificate in Academic Practice (PGCAP), and a Diploma in Leadership and Management, together with professional qualifications in auditing, assessment, and quality assurance.",
-    "photo_url": "/images/Vijaya_Manchem.jpg"
-},
-{
-    "id": "s35",
-    "full_name": "Steve Outtrim",
-    "affiliation": "Dynamic Experts",
-    "bio": "Steve Outtrim is co-founder and CEO of Dynamic Experts. He first studied the Viable System Model as an undergraduate at Victoria University of Wellington in 1992 and applied its principles to the structure of his first company, Sausage Software, creator of HotDog, one of the most widely downloaded Internet applications of the dot-com era, which he founded at 23 and grew to a peak market capitalization of $1.2 billion. Three decades later he returned to Beer's model as the control architecture for autonomous AI agents, fused with David Teece's Dynamic Capabilities framework: the Viable Agentic System.",
-    "photo_url": "/images/Steve_Outtrim.jpeg"
-},
-{
-    "id": "s36",
-    "full_name": "David J. Teece",
-    "affiliation": "University of California, Berkeley",
-    "bio": "David J. Teece is Professor of the Graduate School at the University of California, Berkeley, Distinguished Scholar of Strategy and Innovation at the University of South Florida’s Muma College of Business, Chairman Emeritus of the Berkeley Research Group, and co-founder and Executive Chairman of Dynamic Experts. He received his PhD in economics from the University of Pennsylvania in 1975, during Stafford Beer’s adjunct professorship at the Wharton School. A scholar-entrepreneur, Professor Teece is best known for originating the Dynamic Capabilities framework, the Dynamic Competition paradigm, and the Profiting from Innovation model, which have shaped research and practice in strategy, innovation, entrepreneurship, and competition policy. His work has been cited more than 269,000 times, making him one of the world's most influential scholars in business and economics. He advises governments and corporations worldwide on strategy, innovation, and technological change. In 2020, Clarivate ranked him the world's most influential scholar in management and named him a Clarivate Laureate in Economics for his contributions to innovation, entrepreneurship, and competition. In 2021, Thinkers50 recognized him as a Distinguished Management Thinker.",
-    "photo_url": "/images/David_Teece.jpeg"
-},
-{
-    "id": "s37",
-    "full_name": "Thomas McEvoy-Zafiropulos",
-    "affiliation": "Australian National University",
-    "bio": "Thomas McEvoy-Zafiropulos is a PhD candidate in Cybernetics at the Australian National University. He holds previous degrees in philosophy and quantitative economics, and his research explores the self, existentialism, and psychopathology through cybernetics. Born in Chile, Thomas has long been interested in Stafford Beer’s intellectual and practical legacy, particularly his engagement with Latin America and the philosophical implications of his work.",
-    "photo_url": "/images/Thomas_McEvoy_Zafiropulos.jpeg"
-},
-{
-    "id": "s38",
-    "full_name": "Zeltzin Perez Matamoros",
-    "affiliation": "Instituto Politécnico Nacional, Mexico",
-    "bio": "PhD Candidate in Systems Engineering at Instituto Politécnico Nacional, Mexico. Her research focuses on Systems Thinking, complex systems, water governance and the dynamics of tourism systems from a transdisciplinary perspective. Her work centres on the study and design of social-ecological systems through the application of methodologies such as the Viable System Model, Soft Systems Methodology and System Dynamics to address challenges related to sustainability and governance. She has published scientific articles in JCR indexed and international journals, as well as book chapters on tourism, sustainability and Systems Thinking. She has presented her research at international conferences, including Metaphorum (Berlin and Manchester) and ISSS (Washington and Birmingham), as well as at several national events, including the International Congress on Applied Tourism Research and the Mexican Academy of Tourism Research. She is a member of Grupo de Investigación en Sistémica y Turismo. Her research integrates Systems Thinking with territorial action to contribute to the design of governance strategies and regenerative solutions for rural communities.",
-    "photo_url": "/images/Zeltzin_Perez-Matamoros.jpeg"
-},
-{
     "id": "s40",
     "full_name": "Isaías Badillo-Piña",
     "affiliation": "Instituto Politécnico Nacional, Mexico",
     "bio": "Isaías Badillo-Piña holds a degree in Electrical Engineering and earned both his Master's and PhD degrees in Systems Engineering. He has published more than 30 research articles in JCR indexed (Q1 and Q2) and Scopus indexed journals, as well as more than 15 book chapters with internationally recognised academic publishers. He is a Research Professor in the PhD Programme in Systems Engineering at Instituto Politécnico Nacional, Mexico. His research focuses on Systems Science. He has led more than 5 research projects and has supervised 5 doctoral theses and 4 master's dissertations. He is a member of several prestigious professional and academic associations, including the Asociación Mexicana de Ingenieros Mecánicos y Electricistas, the College of Mechanical and Electrical Engineering, the Mexican Institute of Systems and Cybernetics, the Mexican Academy of Systems Science, the Asociación Latinoamericana de Sistemas (Secretary, 2008–2010), the Institute of Electrical and Electronics Engineers (IEEE), the ISSS, and the American Production and Inventory Control Society (APICS).",
     "photo_url": "/images/Isaías_Badillo-Piña.jpeg"
-},
-{
-    "id": "s41",
-    "full_name": "Richard Gunther",
-    "affiliation": "Recursive Systems",
-    "bio": "Richard Gunther is an independent practitioner based in Newcastle, County Down, and the founder of Recursive Systems, where he develops software for organisational diagnosis using Stafford Beer's Viable System Model. The system treats model output as provisional: structure goes onto the map only when it passes an evidence-gated test, and unresolved gaps become diagnostic questions rather than invented answers. He has tested this workflow on two public-record cases. Alongside this work he advises manufacturers on Amazon marketplace strategy and builds the software supporting that practice, which is where his interest in applying the VSM to real organisational problems began. He studied Management Science at Bayes Business School in London, with periods in Hong Kong and Austin, and first encountered the VSM in an undergraduate dissertation on virtual organisations. His next step is testing it with practitioners in a live organisation, and he hopes to meet people willing to challenge the method.",
-    "photo_url": "/images/Richard_Gunther.jpeg"
-},
-{
-    "id": "s42",
-    "full_name": "Marc-André Pigeon",
-    "affiliation": "Canadian Centre for the Study of Co-operatives",
-    "bio": "Director of the Canadian Centre for the Study of Co-operatives and an assistant professor in the Johnson Shoyama Graduate School of Public Policy (JSGS).  His research interests centre around the study of co-operatives, governance, and money and banking. In relation to this line of inquiry, Dr. Pigeon has of late been exploring the intersection of cybernetics, co-operative governance and public policy. Prior to joining the JSGS, Dr. Pigeon worked as the assistant vice president of financial sector policy at the Canadian Credit Union Association, where he was responsible for monitoring, researching and advocating on behalf of credit unions.  He has also served as an advisor at the Department of Finance, a lead analyst for two major Parliamentary committees (Senate Banking, Trade and Commerce; House of Commons Finance), an economist at the Levy Economics Institute, and a business reporter for Bloomberg Business News. Dr. Pigeon holds a PhD from Carleton University in mass communications, a master’s degree in economics from the University of Ottawa, and a journalism degree from Carleton University. Dr. Pigeon has served on several non-profit and charitable boards, including the Co-operative Development Foundation (CDF), the Saskatchewan Co-operative Association, and Saskatoon Unitarians.",
-    "photo_url": "/images/Marc-Andre_Pigeon.jpeg"
-},
-{
-    "id": "s43",
-    "full_name": "Nour Abida",
-    "affiliation": "",
-    "bio": "Nour Abida is an award-winning journalist, documentary filmmaker and systems thinking practitioner working at the intersection of journalism, organisational design and public service media. With more than a decade of experience in international broadcasting, she has led editorial and strategic projects spanning digital transformation, global audience engagement and organisational change. Alongside her work in journalism, Nour is completing an MSc in Systems Thinking in Practice at the University of Exeter, where she explores how systems methodologies including Stafford Beer’s Viable System Model, Soft Systems Methodology and Critical Systems Heuristics can help media organisations navigate complexity, strengthen resilience and improve decision-making. Her research focuses on applying systems thinking to contemporary challenges in public service media, including organisational viability, podcast discovery, audience trust and inclusive journalism. Nour is particularly interested in how diversity contributes to organisational resilience through Ashby’s Law of Requisite Variety and how cybernetic thinking can inform the future of journalism in an increasingly complex world. Nour was named Best Journalist at the 2025 Forty Under Forty Awards. Her documentary The Homecoming reached more than four million viewers and has been screened internationally, including at Columbia University, the University of Oxford and the Africa Centre.",
-    "photo_url": "/images/Nour_Abida.jpeg"
 },
 {
     "id": "s44",
@@ -420,13 +343,6 @@
     "photo_url": "/images/blank_400x400.png"
 },
 {
-    "id": "s66",
-    "full_name": "Margeret Heath",
-    "affiliation": "",
-    "bio": "",
-    "photo_url": "/images/blank_400x400.png"
-},
-{
     "id": "s67",
     "full_name": "Leonardo Lavanderos",
     "affiliation": "",
@@ -472,8 +388,8 @@
     "id": "s74",
     "full_name": "Carola Ritzinger-Roll",
     "affiliation": "",
-    "bio": "",
-    "photo_url": "/images/blank_400x400.png"
+    "bio": "Carola Ritzinger-Roll is a strategy and sustainability manager, management cybernetics practitioner, and doctoral researcher specialising in organisational design, integrated management systems, and Stafford Beer’s Viable System Model (VSM). Drawing on more than 20 years of experience in industrial organisations, she combines systems thinking with Lean Management and management system practice in highly complex and regulated environments. Her doctoral research at the University of Stuttgart investigates how cybernetic performance measurement can improve organisational steering and translate the principles of viable organisation into measurable governance structures. She is co-author of Designing Intelligent Construction Projects (Wiley, 2022) and has published on the application of management cybernetics and the VSM across different industries. Alongside her industrial and academic work, she teaches management-related subjects and is actively involved in the systems and cybernetics community.",
+    "photo_url": "/images/Carola_Ritzinger-Roll.png"
 },
 {
     "id": "s75",
@@ -508,7 +424,7 @@
     "full_name": "Fabiana Sepe",
     "affiliation": "Department of Economics, Management, Institutions, University of Naples Federico II",
     "bio": "Fabiana Sepe, PhD, is an assistant professor at the Department of Economics, Management, Institutions, University of Naples Federico II. She is author of some book chapters and articles on national and international journals in the fields of management, tourism, and agri-food industry. She has attended several national and international conferences with co-authored papers. Her main research interests include but are not limited to knowledge management, strategy, consumer behaviour and artificial intelligence, concentrating upon the application of open innovation perspectives.",
-    "photo_url": "/images/"
+    "photo_url": "/images/blank_400x400.png"
 },
 {
     "id": "s80",
@@ -527,6 +443,13 @@
 {
     "id": "s82",
     "full_name": "Benjamin Wood",
+    "affiliation": "",
+    "bio": "",
+    "photo_url": "/images/blank_400x400.png"
+},
+{
+    "id": "s83",
+    "full_name": "Igor Perko",
     "affiliation": "",
     "bio": "",
     "photo_url": "/images/blank_400x400.png"
