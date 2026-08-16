@@ -128,9 +128,41 @@ const { conference } = config;
 
     #menu-toggle {
         display: none;
+        width: 32px;
+        height: 32px;
+        padding: 4px;
         background: none;
         border: none;
         cursor: pointer;
+    }
+
+    .hamburger,
+    .hamburger::before,
+    .hamburger::after {
+        display: block;
+        width: 24px;
+        height: 2px;
+        background: var(--color-primary);
+        border-radius: 1px;
+    }
+
+    .hamburger {
+        position: relative;
+    }
+
+    .hamburger::before,
+    .hamburger::after {
+        content: '';
+        position: absolute;
+        left: 0;
+    }
+
+    .hamburger::before {
+        top: -8px;
+    }
+
+    .hamburger::after {
+        top: 8px;
     }
 
     /* Mobile Styles */
