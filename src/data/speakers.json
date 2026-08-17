@@ -301,6 +301,13 @@
     "photo_url": "/images/Thomas_Biedermann.jpeg"
 },
 {
+    "id": "s48",
+    "full_name": "Lien Peeters",
+    "affiliation": "Prepared Mind",
+    "bio": "Lien Peeters co-owns (with Benny Corvers) Prepared Mind, a Belgian-Dutch consultancy firm. Both originally trained as linguists and have worked in the field of organisational design and development for the past 15 years. The Viable System Model and Modern Sociotechnical Systems have been at the core of their work ever since they started out. Lien helps turning complex strategic challenges into actionable decisions. She combines a strong structuring ability with a high dose of empathy and pragmatism, making her an ideal sounding board for organizations in transition. She earned her stripes in the world of education, where she held policy and management positions. Prepared Mind’s ambition is to change the world of work by enabling a fundamentally different dialogue within and between organisations, helping clients to design and develop new conditions that will allow their organisations to adjust sustainably. Prepared Mind mainly works with governments and social purpose organisations in youth care, mental health care, education",
+    "photo_url": "/images/Lien_Peeters.jpeg"
+},
+{
     "id": "s49",
     "full_name": "Benny Corvers",
     "affiliation": "Prepared Mind",
@@ -396,7 +403,7 @@
     "full_name": "Krishan Mathis",
     "affiliation": "",
     "bio": "Sensemaking for leaders when management stops working. Author of The Tautai Principle · Complexity · Cybernetics",
-    "photo_url": "/images/blank_400x400.png"
+    "photo_url": "/images/Krishan_Mathis.jpeg"
 },
 {
     "id": "s63",
