@@ -354,7 +354,7 @@
     "full_name": "Chris Hamlin",
     "affiliation": "HancockHamlin",
     "bio": "Chris Hamlin, FREng Co-founder and lead advisor at HancockHamlin, a company focused on amplifying the role of engineering and equipping people to operate effectively in complex and emergent environments. A strong consulting professional with more than 30 years’ experience and a track record of improving manufacturing performance and commercial operations across the process industries, Chris is also a Fellow of the Royal Academy of Engineering.  He sits on their Regional Talent Engineering Steering Group and chairs that activity in the North-East. He is a qualified Co-Active Coach, Viable System Model Coach and Emergenetics Practitioner. He has expertise in helping individuals and organisations understand themselves and the systems they are in and how to make sustainable changes that bring personal, professional and societal benefits.",
-    "photo_url": "/images/blank_400x400.png"
+    "photo_url": "/images/Chris_Hamlin.jpeg"
 },
 {
     "id": "s56",
@@ -408,7 +408,7 @@
 {
     "id": "s63",
     "full_name": "Katharine N. Farrell",
-    "affiliation": "",
+    "affiliation": "Universidad ECCI, Colombia",
     "bio": "Katharine (Kate) is Member of Pi Sigma Alpha, the Political Science Honor Society of the United States, holding a BA (with honors) in Political Science, with studies in biochemistry, two MSc degrees, one in Urban Policy Analysis and Management (with honors) and the other in Environmental Engineering (by research), and a PhD in Ecological Political Economy. She is an alumnus Marie Curie Intra-European Fellow and completed her Habilitation in Resource Economics in 2018, with the Life Sciences Faculty of the Humboldt Universität zu Berlin. She is lead author of over 20 high impact academic articles concerning ecological economics, environmental governance, sustainability, Wicked Problems, and the complexities of life and has led the production of several high impact edited collections and research projects.  She has worked as a senior researcher and/or lecturer at universities throughout Europe and in Asia and the Americas and is currently a staff lecturer with Universidad ECCI (Escuela Colombiana de Carreras Industriales), a member of the research group GEAAD - Grupo Economía, Ambiente y Alternativas al Desarrollo of the Universidad Nacional de Colombia and an adjunct postgraduate supervisor with the Centro Interdisciplinario de Estudios sobre el Desarrollo, of the Universidad de los Andes, Colombia.",
     "photo_url": "/images/Katharine_N_Farrell.jpeg"
 },
@@ -418,13 +418,6 @@
     "affiliation": "",
     "bio": "Ed van der Winden works is a Dutch IT architect with a degree in computer science from the Technical University of Delft.  He is the chair of the Dutch chapter of SCIO (Systems and Complexity in Organizations) as well as the chair of the Interest Group for system thinking within the KNVI (which translates as the Royal Dutch Society for Information Professionals). He uses systems thinking to improve collaboration and governance within large, bureaucratic organizations with a bottom-up approach.",
     "photo_url": "/images/Ed_van_der_Winden.png"
-},
-{
-    "id": "s65",
-    "full_name": "Jan Wehinger",
-    "affiliation": "",
-    "bio": "",
-    "photo_url": "/images/blank_400x400.png"
 },
 {
     "id": "s67",
@@ -437,8 +430,8 @@
     "id": "s68",
     "full_name": "Maria Giovanna Corrado",
     "affiliation": "",
-    "bio": "",
-    "photo_url": "/images/blank_400x400.png"
+    "bio": "Currently investigating connections between philosophy of mind and management studies. I was awarded a PhD in Philosophy at the University of Warwick, an MA in Philosophy of Psychology from King’s College London, and a BA in Philosophy from Cardiff University.",
+    "photo_url": "/images/Maria_Giovanna_Corrado.jpeg"
 },
 {
     "id": "s70",
@@ -458,8 +451,8 @@
     "id": "s72",
     "full_name": "Terence Love",
     "affiliation": "",
-    "bio": "",
-    "photo_url": "/images/blank_400x400.png"
+    "bio": "Prof. Dr Terence Love has been involved in Systems since first studying at Lancaster University  and later moving to Australia. He has worked as an academic and practitioner across several institutions. More recenly, He developed Variety Dynamics as a new systems methodology  that focuses on the use of power in better shaping of outcomes in hypercomplex situations beyond the reach of conventional systems methods. (e.g. disasters, epidemics, wars, diplomacy,climate management, geopolitics and geoeconmics, multi-role oganisaitons etc.) Terence is a Fellow of the Design Research Society, a Chartered mathematician, a member of the OR Society and and a long term member of the ACM. Terence has written around 150 papers and is currently training members of the Ministry of Interior of the Middle East, Police, planners, managers, architects and designers in Australia and internationally.  He is in the final stages of  completing a book on the first 60 axioms of Variety Dynamics.",
+    "photo_url": "/images/Terence_Love.jpeg"
 },
 {
     "id": "s73",
@@ -508,7 +501,7 @@
     "full_name": "Fabiana Sepe",
     "affiliation": "Department of Economics, Management, Institutions, University of Naples Federico II",
     "bio": "Fabiana Sepe, PhD, is an assistant professor at the Department of Economics, Management, Institutions, University of Naples Federico II. She is author of some book chapters and articles on national and international journals in the fields of management, tourism, and agri-food industry. She has attended several national and international conferences with co-authored papers. Her main research interests include but are not limited to knowledge management, strategy, consumer behaviour and artificial intelligence, concentrating upon the application of open innovation perspectives.",
-    "photo_url": "/images/blank_400x400.png"
+    "photo_url": "/images/Fabiana_Sepe.png"
 },
 {
     "id": "s80",
@@ -527,8 +520,8 @@
 {
     "id": "s82",
     "full_name": "Benjamin Wood",
-    "affiliation": "",
-    "bio": "",
+    "affiliation": "Praxis Construction Consulting",
+    "bio": "Ben Wood is a fourth-generation builder, Journeyman Carpenter, former construction project manager, independent consultant, systems thinker, and cybernetics practitioner. His experience in the trades and construction management, following an earlier education and practice in history and journalism, shaped his understanding of how knowledge, judgment, and action drive project dynamics.  That experience drives his commitment to increasing worker agency, autonomy, and well-being. He is the founder of Praxis Construction Consulting and Systems Thinking in Construction. His current work explores how the Viable System Model and related systems traditions can help construction project organizations better circulate actionable information, develop shared understanding, and increase their capacity for collective purposeful action.",
     "photo_url": "/images/blank_400x400.png"
 },
 {
