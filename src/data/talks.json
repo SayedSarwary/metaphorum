@@ -144,27 +144,11 @@
         "duration_minutes": 20
     },
     {
-        "id": "talk0",
-        "title": "Management Cybernetics is the new Public Choice Theory",
-        "abstract": "From Designing Freedom, and Stafford’s ideas on governance on a democratic society suggest how, starting from the existing theory of public choice, Beer’s cybernetic perspective can help us design better and more productive public institutions.",
-        "speaker_id": "s59",
-        "track_id": "t6",
-        "duration_minutes": 20
-    },
-    {
         "id": "talk21",
         "title": "Beer-Viable but Teece-Dead: The Viable System Model as the Wiring Diagram of Dynamic Capabilities",
         "abstract": "Purpose: Beer's Viable System Model and the Dynamic Capabilities framework are usually treated as unrelated literatures. They were born closer than either community remembers: Beer held adjunct professorships at the Wharton School from 1972 to 1987, a window containing Teece's Pennsylvania doctorate (1975). This paper argues the two frameworks sit on orthogonal axes — VSM a theory of organizational cybernetics, dynamic capabilities a theory of strategic adaptation — and that each supplies precisely what the other lacks. Methods: Conceptual synthesis, supported by a production implementation. We map sensing to S4, seizing to S3 decision under S5 policy, and transforming to the recursive reconfiguration of all five systems audited by S3*; we show Beer's recursion principle is the missing scaling theorem of dynamic capabilities, and the algedonic channel its missing emergency primitive. Findings: A firm can be Beer-viable and Teece-dead — operationally sound while losing every race — but cannot be Teece-strong without being Beer-viable. AI removes the constraint that stopped Beer: microfoundations can now be encoded, composed, and audited as executable primitives, with requisite variety measured rather than asserted. We report evidence from a production implementation, including the first computational realisation of Beer's Team Syntegrity. Implications: The theory of the firm should be stated in three jointly necessary layers — transaction-cost, capability, and cybernetic. Beer's revival may be one of the quiet intellectual stories of the AI era; his centenary is the moment to make it loud.",
         "speaker_id": "s36",
         "track_id": "t6",
-        "duration_minutes": 20
-    },
-    {
-        "id": "talk22",
-        "title": "Organizing for Autonomy: The Viable System Model as a Framework for Becoming an AI-Native Company",
-        "abstract": "Purpose: Most corporate AI programs fail for organizational reasons. MIT (2025) reports that 95 percent of generative AI pilots show no measurable profit effect. Deloitte (2026) finds that 85 percent of firms plan to adapt AI agents while 21 percent have a governance model for them. This contribution asks why and how the Viable System Model can guide companies that want to become AI-native. Methods: The study uses reverse engineering. It builds a requirements list from Martin Hofmann’s book The Agentic Enterprise (2026) and nine industry reports from McKinsey, BCG, Deloitte, Anthropic, and OpenAI, covering more than 20,000 executive respondents. It maps the list onto the five VSM systems and applies Perez Rios’ Taxonomy of Organizational Pathologies to the documented failure patterns. Findings: The requirements match the five systems closely. Coordination layers for agents correspond to System 2, governance at machine speed to Systems 3 and 3*, and leadership models to System 5. The consulting firms describe these functions without naming Beer. Three gaps appear: a missing System 4 function, no formal rule for recursion, and undesigned variety flows at human-agent interfaces. Fourteen pathologies connect the failure patterns to structural causes and named interventions. Implications: The VSM gives companies a diagnosis of AI failure and construction rules for organizations in which autonomous agents can work at scale. The contribution proposes six design principles and a research agenda, including the question of which System 5 decisions must stay human.",
-        "speaker_id": "s65",
-        "track_id": "t2",
         "duration_minutes": 20
     },
     {
@@ -435,6 +419,7 @@
         "id": "talk59",
         "title": "Designing Viable Identity in Institutional Transitions: A VSM Reconstruction of the Total Veteran Framework",
         "abstract": "Purpose: This article reconstructs Total Veteran through the Viable System Model (VSM) to develop the Viable Identity Adaptation Framework (VIAF), a conceptual model for understanding and designing identity adaptation during major institutional transitions. It argues that post-military reintegration should not be reduced to employability, entrepreneurship training or psychological adjustment, but understood as the systemic redesign of viable identity, self-environment models, regulatory capacity, coordination and renewed domains of action. Design/methodology/approach: The article offers a theoretically informed reconstruction of Total Veteran as a case of transition from a highly structured military environment into civilian and entrepreneurial life. It uses the VSM as an analytical and design architecture to reinterpret the functions embedded in Total Veteran and to abstract a transferable framework for organizational and cultural change. The argument draws on organizational cybernetics, organizational identity, sensemaking, second-order learning and second-order cybernetics. Findings: The reconstruction suggests that viable identity adaptation depends on the interaction of six functions: identity and purpose formation, self-environment model reconstruction, regulatory translation, monitoring and early-warning feedback, coordination among operational domains, and operational experimentation in renewed domains of autonomy. Controlled, incremental exposure to new environments emerges as catalytic because it allows identity coherence to be tested, self-environment models to be revised, regulatory needs to surface and new agency to be enacted. Originality/value: The article extends the VSM from organizational diagnosis toward the design of viable identity adaptation in institutional transitions. It positions Total Veteran as a generative case for VIAF and offers a design logic for veteran reintegration, organizational change, cultural transformation and VSM-based systemic practice.",
+
         "speaker_id": "s3",
         "track_id": "t2",
         "duration_minutes": 20

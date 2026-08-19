@@ -1,0 +1,17 @@
+    {
+        "id": "talk0",
+        "title": "Management Cybernetics is the new Public Choice Theory",
+        "abstract": "From Designing Freedom, and Stafford’s ideas on governance on a democratic society suggest how, starting from the existing theory of public choice, Beer’s cybernetic perspective can help us design better and more productive public institutions.",
+        "speaker_id": "s59",
+        "track_id": "t6",
+        "duration_minutes": 20
+    },
+
+    {
+        "id": "talk22",
+        "title": "Organizing for Autonomy: The Viable System Model as a Framework for Becoming an AI-Native Company",
+        "abstract": "Purpose: Most corporate AI programs fail for organizational reasons. MIT (2025) reports that 95 percent of generative AI pilots show no measurable profit effect. Deloitte (2026) finds that 85 percent of firms plan to adapt AI agents while 21 percent have a governance model for them. This contribution asks why and how the Viable System Model can guide companies that want to become AI-native. Methods: The study uses reverse engineering. It builds a requirements list from Martin Hofmann’s book The Agentic Enterprise (2026) and nine industry reports from McKinsey, BCG, Deloitte, Anthropic, and OpenAI, covering more than 20,000 executive respondents. It maps the list onto the five VSM systems and applies Perez Rios’ Taxonomy of Organizational Pathologies to the documented failure patterns. Findings: The requirements match the five systems closely. Coordination layers for agents correspond to System 2, governance at machine speed to Systems 3 and 3*, and leadership models to System 5. The consulting firms describe these functions without naming Beer. Three gaps appear: a missing System 4 function, no formal rule for recursion, and undesigned variety flows at human-agent interfaces. Fourteen pathologies connect the failure patterns to structural causes and named interventions. Implications: The VSM gives companies a diagnosis of AI failure and construction rules for organizations in which autonomous agents can work at scale. The contribution proposes six design principles and a research agenda, including the question of which System 5 decisions must stay human.",
+        "speaker_id": "s65",
+        "track_id": "t2",
+        "duration_minutes": 20
+    },
