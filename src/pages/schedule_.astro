@@ -11,7 +11,7 @@ const getScheduleWithDetails = () => {
         const talk = talks.find(t => t.id === item.talk_id);
         const speaker = speakers.find(s => s.id === talk?.speaker_id);
         const track = tracks.find(t => t.id === talk?.track_id);
-
+        
         return {
             ...item,
             talk,
@@ -45,13 +45,11 @@ function formatDate(dateStr: string) {
 
 function formatTime(timeStr: string) {
     // Assuming HH:MM 24h format, convert to 12h AM/PM
-//    const [hour, minute] = timeStr.split(':');
-//    const h = parseInt(hour, 10);
-//    const ampm = h >= 12 ? 'PM' : 'AM';
-//    const h12 = h % 12 || 12;
-//    return `${h12}:${minute} ${ampm}`;
-      return timeStr
-//    return ${hour}:${minute}
+    const [hour, minute] = timeStr.split(':');
+    const h = parseInt(hour, 10);
+    const ampm = h >= 12 ? 'PM' : 'AM';
+    const h12 = h % 12 || 12;
+    return `${h12}:${minute} ${ampm}`;
 }
 ---
 
@@ -59,12 +57,6 @@ function formatTime(timeStr: string) {
 	<section class="page-header">
         <div class="container">
             <h1>Conference Schedule</h1>
-            <p>
-                This Conference programme is still under active development but
-                a final version is expected very soon. Meanwhere, the version
-                below provides a preview of most of the content ... but please
-                expect times and rooms to change.
-            </p>
         </div>
     </section>
 
@@ -82,7 +74,7 @@ function formatTime(timeStr: string) {
                                 </div>
                                 <div class="details-col">
                                     <div class="track-tag" style="background-color: var(--color-background-alt)">
-                                        {item.track?.name || ''}
+                                        {item.track?.name || 'Conference Session'}
                                     </div>
                                     <h3 class="talk-title">{item.talk?.title}</h3>
                                     {item.speaker && (
@@ -90,7 +82,7 @@ function formatTime(timeStr: string) {
                                             Speaker: <a href={`/speakers/${item.speaker.id}`}>{item.speaker.full_name}</a>
                                         </p>
                                     )}
-                                    <p class="room-location"> {item.room}</p>
+                                    <p class="room-location">📍 {item.room}</p>
                                     {item.talk?.abstract && (
                                         <details>
                                             <summary>View Abstract</summary>
@@ -168,7 +160,7 @@ function formatTime(timeStr: string) {
         font-weight: 600;
         color: var(--color-text-light);
         margin-bottom: 0.5rem;
-/%        text-transform: uppercase; */
+        text-transform: uppercase;
         letter-spacing: 0.05em;
     }
 
@@ -199,7 +191,7 @@ function formatTime(timeStr: string) {
         color: var(--color-secondary);
         font-weight: 500;
     }
-
+    
     .abstract-text {
         margin-top: 0.5rem;
         color: var(--color-text);

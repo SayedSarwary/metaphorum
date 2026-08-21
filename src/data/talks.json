@@ -598,5 +598,101 @@
         "speaker_id": "s7",
         "track_id": "t3",
         "duration_minutes": 20
+    },
+    {
+        "id": "opening",
+        "title": "Conference Opening",
+        "abstract": "",
+        "speaker_id": "",
+        "track_id": "",
+        "duration_minutes": 20
+    },
+    {
+        "id": "launch",
+        "title": "Launching 100 Years Festschrift",
+        "abstract": "",
+        "speaker_id": "",
+        "track_id": "",
+        "duration_minutes": 20
+    },
+    {
+        "id": "closing",
+        "title": "Closing Remarks & Farewell",
+        "abstract": "",
+        "speaker_id": "",
+        "track_id": "",
+        "duration_minutes": 20
+    },
+    {
+        "id": "galadinner",
+        "title": "Gala Dinner",
+        "abstract": "",
+        "speaker_id": "",
+        "track_id": "",
+        "duration_minutes": 20
+    },
+    {
+        "id": "reception",
+        "title": "Reception",
+        "abstract": "",
+        "speaker_id": "",
+        "track_id": "",
+        "duration_minutes": 20
+    },
+    {
+        "id": "sbholistic",
+        "title": "Stafford Beer- A Holistic Character ",
+        "abstract": "",
+        "speaker_id": "",
+        "track_id": "",
+        "duration_minutes": 20
+    },
+    {
+        "id": "coffee",
+        "title": "Coffee",
+        "abstract": "",
+        "speaker_id": "",
+        "track_id": "",
+        "duration_minutes": 20
+    },
+    {
+        "id": "lunch",
+        "title": "Lunch",
+        "abstract": "",
+        "speaker_id": "",
+        "track_id": "",
+        "duration_minutes": 20
+    },
+    {
+        "id": "digitalscreening",
+        "title": "Digital Museum/Video Documentaries Screening",
+        "abstract": "",
+        "speaker_id": "",
+        "track_id": "",
+        "duration_minutes": 20
+    },
+    {
+        "id": "cybersynvideo",
+        "title": "receptionCYBERSYN video",
+        "abstract": "",
+        "speaker_id": "",
+        "track_id": "",
+        "duration_minutes": 20
+    },
+    {
+        "id": "toast",
+        "title": "reception",
+        "abstract": "",
+        "speaker_id": "",
+        "track_id": "",
+        "duration_minutes": 20
+    },
+    {
+        "id": "specialplenary",
+        "title": "Special Plenary Panel",
+        "abstract": "Special Plenary Panel — WOSC: 'The World in Torment: A Time Whose Ideas Must Come",
+        "speaker_id": "",
+        "track_id": "",
+        "duration_minutes": 20
     }
   ]

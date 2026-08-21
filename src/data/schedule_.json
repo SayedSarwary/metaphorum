@@ -1,0 +1,50 @@
+[
+  {
+      "id": "sch2",
+      "talk_id": "conf_day1",
+      "day": "2026-09-17",
+      "start_time": "09:00",
+      "end_time": "17:00",
+      "room": "Conference Room A  (2. Emerging Methods and Tools, and Contemporary Practice)"
+  },
+  {
+      "id": "sch2",
+      "talk_id": "conf_day1",
+      "day": "2026-09-17",
+      "start_time": "09:00",
+      "end_time": "17:00",
+      "room": "Conference Room A  (2. Emerging Methods and Tools, and Contemporary Practice)"
+  },
+  {
+      "id": "sch2",
+      "talk_id": "conf_day1",
+      "day": "2026-09-17",
+      "start_time": "09:00",
+      "end_time": "17:00",
+      "room": "Conference Venue"
+  },
+{
+    "id": "sch3",
+    "talk_id": "",
+    "day": "2026-09-18",
+    "start_time": "09:00",
+    "end_time": "17:00",
+    "room": "Conference Venue"
+},
+{
+    "id": "sch4",
+    "talk_id": "gala_dinner",
+    "day": "2026-09-18",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "room": "Gala Dinner Venue"
+},
+{
+    "id": "sch5",
+    "talk_id": "conf_day3",
+    "day": "2026-09-19",
+    "start_time": "09:00",
+    "end_time": "16:00",
+    "room": "Conference Venue"
+}
+]
