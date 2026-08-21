@@ -600,6 +600,60 @@
         "duration_minutes": 20
     },
     {
+        "id": "talk83",
+        "title": "From Values to Organizational Practice - the Contribution of the VSM to value-oriented leadership in the age of digitalization",
+        "abstract": "New technologies create ambivalence. In these times of upheaval, values and ethics are needed as stabilizing forces and guides. Building on the VSM, this contribution explores some of the key organizational mechanisms that value-oriented leadership should focus on to ensure that it does not remain abstract but is actually reflected in the concrete actions and decisions of organizations. The VSM hereby reveals its particular strength: offering multi-faceted and detailed insights while preserving an overarching frame of reference. In addition to the organizational dimension of value-oriented leadership, this article derives from the VSM and the underlying Ashby’s Law an ethical imperative as well as guidelines for an ethical decision-making process.",
+        "speaker_id": "s86",
+        "track_id": "t3",
+        "duration_minutes": 20
+    },
+
+    {
+        "id": "talk84",
+        "title": "Systems Thinking and Cybernetics -- the Missing Link in the Sustainability Discourse.",
+        "abstract": "In this talk, Michael  Ben Eli will explore the critical importance of systems thinking and cybernetics to the sustainability challenge",
+        "speaker_id": "s87",
+        "track_id": "t3",
+        "duration_minutes": 20
+    },
+    {
+        "id": "talk85",
+        "title": "Diagnosing the System for Systems Research: Recognising and Realising a Field in Itself and for Itself",
+        "abstract": "Stafford Beer gave the world an instrument for diagnosing viability. A hundred years on, the field that carries his name has rarely turned that instrument on itself. The 2026 agenda of the International Federation for Systems Research reads the cyber-systemic field as vibrant and dispersed: ten clusters of inquiry, wide application, thin synthesis, and a scarcity of the very self-reflection the field so readily prescribes to others. A success paradox running into a reflexivity gap. Read cybernetically, the diagnosis becomes uncomfortably familiar. A proliferating System One that seldom cross-pollinates. A System Four holding no outside-and-then. A System Five never articulated, so that identity is inherited rather than chosen. And the question that will not let go: where are the algedonic signals of the field, and to whom do they speak? Any answer already presumes a we. This keynote offers an invitation to co-create the conditions for a joint learning journey, and to ground collective agency in the field's sense of we.",
+        "speaker_id": "s85",
+        "track_id": "t3",
+        "duration_minutes": 20
+    },
+    {
+        "id": "talk86",
+        "title": "Reconstruction of the Cybersyn Operating Room",
+        "abstract": "This article and photo essay will present the history and international impact of the reconstruction of the Cybersyn operating room, conceived by Stafford Beer, designed by the INTEC Industrial Design Department in 1973, and reconstructed 50 years later for the exhibition “How to Design a Revolution: The Chilean Path to Design,” a show about graphic and industrial design during the government of Salvador Allende in Chile. The exhibition was conceived through the interdisciplinary research and creative work of professors from the Pontifical Catholic University of Chile and the Massachusetts Institute of Technology in the United States. This exhibition was inaugurated at the La Moneda Cultural Center in Santiago, Chile, between 2023 and 2024, to commemorate the 50th anniversary of the civil-military coup d'état. It was later presented at the Disseny Hub in Barcelona in 2025. This exhibition will be held between 2026 and 2027 at the Museum Angewandte Kunst in Frankfurt as part of the World Design Capital Frankfurt 2026 event. The exhibition comprises design pieces that aimed to democratize reading and music, reduce technological dependence, and combat childhood malnutrition, among other goals. One of the most outstanding pieces in the exhibition is the first comprehensive and functional reconstruction of the Cybersyn operating room. This article offers a visual account of the journeys that made the reconstruction of this project possible—a milestone in the history of design and cybernetics with which exhibition visitors can now interact.",
+        "speaker_id": "s88",
+        "track_id": "t5",
+        "duration_minutes": 20
+    },
+    {
+        "id": "talk87",
+        "title": "The Next 100 Years of Stafford Beer: A Working Viable System Model for the Agentic AI Era",
+        "speaker_id": "s35",
+        "track_id": "t2",
+        "duration_minutes": 20
+    },
+    {
+        "id": "talk88",
+        "title": "The Next 100 Years of Stafford Beer: A Working Viable System Model for the Agentic AI Era",
+        "speaker_id": "s36",
+        "track_id": "t2",
+        "duration_minutes": 20
+    },
+    {
+        "id": "worldcafe",
+        "title": "World Café: How should we progress Stafford Beer's legacy?",
+        "speaker_id": "",
+        "track_id": "",
+        "duration_minutes": 20
+    },
+    {
         "id": "opening",
         "title": "Conference Opening",
         "abstract": "",
@@ -664,6 +718,14 @@
         "duration_minutes": 20
     },
     {
+        "id": "ifsr",
+        "title": "(IFSR)",
+        "abstract": "",
+        "speaker_id": "s85",
+        "track_id": "",
+        "duration_minutes": 20
+    },
+    {
         "id": "digitalscreening",
         "title": "Digital Museum/Video Documentaries Screening",
         "abstract": "",
@@ -673,7 +735,7 @@
     },
     {
         "id": "cybersynvideo",
-        "title": "receptionCYBERSYN video",
+        "title": "CYBERSYN video",
         "abstract": "",
         "speaker_id": "",
         "track_id": "",
@@ -681,7 +743,7 @@
     },
     {
         "id": "toast",
-        "title": "reception",
+        "title": "Toast to Stafford Beer 100",
         "abstract": "",
         "speaker_id": "",
         "track_id": "",
@@ -695,4 +757,5 @@
         "track_id": "",
         "duration_minutes": 20
     }
+
   ]
