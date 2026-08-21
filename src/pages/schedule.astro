@@ -82,7 +82,7 @@ function formatTime(timeStr: string) {
                                 </div>
                                 <div class="details-col">
                                     <div class="track-tag" style="background-color: var(--color-background-alt)">
-                                        {item.track?.name}
+                                        {item.track?.name || ''}
                                     </div>
                                     <h3 class="talk-title">{item.talk?.title}</h3>
                                     {item.speaker && (
