@@ -15,3 +15,11 @@
         "track_id": "t2",
         "duration_minutes": 20
     },
+    {
+        "id": "talk9",
+        "title": "Beyond Diagnosis",
+        "abstract": "",
+        "speaker_id": "s7",
+        "track_id": "t3",
+        "duration_minutes": 20
+    },

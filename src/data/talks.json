@@ -56,14 +56,6 @@
         "duration_minutes": 20
     },
     {
-        "id": "talk9",
-        "title": "Beyond Diagnosis",
-        "abstract": "",
-        "speaker_id": "s7",
-        "track_id": "t3",
-        "duration_minutes": 20
-    },
-    {
         "id": "talk10",
         "title": "Designing Heterarchy: An Extension of the Viable System Model for Complex Construction Projects",
         "abstract": "This paper proposes a heterarchical extension of the Viable System Model for complex construction projects. It argues that the canonical representation of the VSM does not explicitly represent a regulatory pathway through which semantically rich operational knowledge may directly challenge metasystemic assumptions and decisions. Thus, potentially reducing the metasystem’s capacity for learning and second-order error correction.  The proposed circular topology, informed by McCulloch and Pitt’s concept of heterarchy, retains Beer's recursive regulatory functions and algedonic channel while adding an explicit, protected “challenge channel” through which frontline participants may transmit semantically rich challenges, concerns, emerging threats, and improvement proposals, based on relevant operational information, to the appropriate regulator. The challenge channel bypasses managerial suppression, but not necessary variety management.  Its purpose is to reduce the attenuation and distortion of situated operational knowledge, enable anticipatory correction, and allow System 1 participants to challenge the assumptions, models, and decisions through which the metasystem regulates both their work and their continuously changing task environment. The proposed extension draws on the ideas of Gordon Pask, McCulloch, Pitts, Heinz Von Foerster and Stafford Beer. It is supplemented through observations from the management of a complex heavy-industrial construction project, where a formal organizational policy of Challenge Culture provided an empirical example of distributed challenge as a cybernetic mechanism for requisite variety management.",
@@ -116,6 +108,14 @@
         "title": "From Building a Regime to Running It: A Participatory Viable System Model Diagnostic of a Regulator Entering Dual-Mode Operation",
         "abstract": "Purpose: In January 2026 the Heat Networks Directorate of Ofgem moved from designing a new regulatory regime to operating it while continuing to develop it. Initially our project asked how they could develop a better operating model, but what it concluded was that they were shifting to from a single to two core activities and needed to adapt to be able to deliver in parallel. Methods: Over ten weeks the authors combined an independent diagnostic with certified Practitioner training. A preliminary recursive map, developed inside the Directorate through a Royal Academy of Engineering Policy Fellowship, became the training material: seven staff qualified as Practitioners while jointly interrogating and revising their own model. Four systems were analysed across three levels of recursion. Findings: The decisive finding was structural. Operating the regime and developing it can no longer share one management system; each needs its own delivery, coordination and adaptive capacity, introducing a new level of recursion at the top. The analysis produced 108 observations and 28 mitigations, concentrated in under-developed coordination (System 2), thin adaptation (System 4) and an absent technical authority. Implications and Contributions: The engagement offers a transferable pattern for regulators moving from design to operation. It also surfaced a recurring question: whether to keep",
         "speaker_id": "s55",
+        "track_id": "t2",
+        "duration_minutes": 20
+    },
+    {
+        "id": "talk82",
+        "title": "From Building a Regime to Running It: A Participatory Viable System Model Diagnostic of a Regulator Entering Dual-Mode Operation",
+        "abstract": "Purpose: In January 2026 the Heat Networks Directorate of Ofgem moved from designing a new regulatory regime to operating it while continuing to develop it. Initially our project asked how they could develop a better operating model, but what it concluded was that they were shifting to from a single to two core activities and needed to adapt to be able to deliver in parallel. Methods: Over ten weeks the authors combined an independent diagnostic with certified Practitioner training. A preliminary recursive map, developed inside the Directorate through a Royal Academy of Engineering Policy Fellowship, became the training material: seven staff qualified as Practitioners while jointly interrogating and revising their own model. Four systems were analysed across three levels of recursion. Findings: The decisive finding was structural. Operating the regime and developing it can no longer share one management system; each needs its own delivery, coordination and adaptive capacity, introducing a new level of recursion at the top. The analysis produced 108 observations and 28 mitigations, concentrated in under-developed coordination (System 2), thin adaptation (System 4) and an absent technical authority. Implications and Contributions: The engagement offers a transferable pattern for regulators moving from design to operation. It also surfaced a recurring question: whether to keep",
+        "speaker_id": "s84",
         "track_id": "t2",
         "duration_minutes": 20
     },
@@ -419,7 +419,6 @@
         "id": "talk59",
         "title": "Designing Viable Identity in Institutional Transitions: A VSM Reconstruction of the Total Veteran Framework",
         "abstract": "Purpose: This article reconstructs Total Veteran through the Viable System Model (VSM) to develop the Viable Identity Adaptation Framework (VIAF), a conceptual model for understanding and designing identity adaptation during major institutional transitions. It argues that post-military reintegration should not be reduced to employability, entrepreneurship training or psychological adjustment, but understood as the systemic redesign of viable identity, self-environment models, regulatory capacity, coordination and renewed domains of action. Design/methodology/approach: The article offers a theoretically informed reconstruction of Total Veteran as a case of transition from a highly structured military environment into civilian and entrepreneurial life. It uses the VSM as an analytical and design architecture to reinterpret the functions embedded in Total Veteran and to abstract a transferable framework for organizational and cultural change. The argument draws on organizational cybernetics, organizational identity, sensemaking, second-order learning and second-order cybernetics. Findings: The reconstruction suggests that viable identity adaptation depends on the interaction of six functions: identity and purpose formation, self-environment model reconstruction, regulatory translation, monitoring and early-warning feedback, coordination among operational domains, and operational experimentation in renewed domains of autonomy. Controlled, incremental exposure to new environments emerges as catalytic because it allows identity coherence to be tested, self-environment models to be revised, regulatory needs to surface and new agency to be enacted. Originality/value: The article extends the VSM from organizational diagnosis toward the design of viable identity adaptation in institutional transitions. It positions Total Veteran as a generative case for VIAF and offers a design logic for veteran reintegration, organizational change, cultural transformation and VSM-based systemic practice.",
-
         "speaker_id": "s3",
         "track_id": "t2",
         "duration_minutes": 20
@@ -590,6 +589,14 @@
         "abstract": "Purpose: In January 2026 the Heat Networks Directorate of Ofgem moved from designing a new regulatory regime to operating it while continuing to develop it. Initially our project asked how they could develop a better operating model, but what it concluded was that they were shifting to from a single to two core activities and needed to adapt to be able to deliver in parallel. Methods: Over ten weeks the authors combined an independent diagnostic with certified Practitioner training. A preliminary recursive map, developed inside the Directorate through a Royal Academy of Engineering Policy Fellowship, became the training material: seven staff qualified as Practitioners while jointly interrogating and revising their own model. Four systems were analysed across three levels of recursion. Findings: The decisive finding was structural. Operating the regime and developing it can no longer share one management system; each needs its own delivery, coordination and adaptive capacity, introducing a new level of recursion at the top. The analysis produced 108 observations and 28 mitigations, concentrated in under-developed coordination (System 2), thin adaptation (System 4) and an absent technical authority. Implications and Contributions: The engagement offers a transferable pattern for regulators moving from design to operation. It also surfaced a recurring question: whether to keep",
         "speaker_id": "s84",
         "track_id": "t2",
+        "duration_minutes": 20
+    },
+    {
+        "id": "talk82",
+        "title": "When Viable Systems Fail: Explaining the Gap Between Diagnosis and Practice (workshop)",
+        "abstract": "",
+        "speaker_id": "s7",
+        "track_id": "t3",
         "duration_minutes": 20
     }
   ]
