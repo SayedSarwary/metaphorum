@@ -536,27 +536,27 @@
     "full_name": "Louis Klein",
     "affiliation": "IFSR (International Federation of Systems Research)",
     "bio": "",
-    "photo_url": "/images/"
+    "photo_url": "/images/blank_400x400.png"
 },
 {
     "id": "s86",
     "full_name": "Wolfang Lassl",
     "affiliation": "",
     "bio": "",
-    "photo_url": "/images/"
+    "photo_url": "/images/blank_400x400.png"
 },
 {
     "id": "s87",
     "full_name": "Michael Ben Eli",
     "affiliation": "",
     "bio": "",
-    "photo_url": "/images/"
+    "photo_url": "/images/blank_400x400.png"
 },
 {
     "id": "s88",
     "full_name": "Hugo Palmarola",
     "affiliation": "",
     "bio": "",
-    "photo_url": "/images/"
+    "photo_url": "/images/blank_400x400.png"
 }
 ]
