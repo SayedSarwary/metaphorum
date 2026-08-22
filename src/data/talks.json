@@ -457,7 +457,7 @@
     },
     {
         "id": "talk64",
-        "title": "Foundations in Dialogue: Comparing VSM and CSH through Checkland’s FMA Framework (SATURDAY AM)",
+        "title": "Foundations in Dialogue: Comparing VSM and CSH through Checkland’s FMA Framework",
         "abstract": "Purpose: Metaphorum 2026 marks Stafford Beer’s centenary and, following Peter Checkland’s passing, offers an opportunity to revisit the foundations of systems practice. This paper compares Beer’s Viable System Model (VSM) with the critical systems tradition developed from C. West Churchman through Werner Ulrich’s Critical Systems Heuristics (CSH), including its critical-realist extension, CSH 2.0. Methods: Using Checkland and Holwell’s FMA framework, we distinguish the frameworks of ideas (F) underpinning each approach, the methodological resources through which they are enacted (M), and their use in a shared organisational area of concern (A). The inquiry is conducted as an asymmetric dialogue between a CSH specialist and a methodologically pluralist practitioner experienced in Soft Systems Methodology, system dynamics and VSM. Kuhn informs our treatment of theory-laden terminology and the risks of translation across paradigmatic traditions. We compare ontological, epistemological and axiological assumptions; criteria of adequate inquiry; and differing treatments of purpose, boundary, control, variety, complexity and the affected. Findings: We argue that VSM and CSH are neither substitutes nor directly commensurable methodologies. VSM primarily examines the organisational and regulatory conditions for viability, whereas CSH critically examines the boundary judgements, knowledge claims, interests and legitimacy of proposed improvements. Through an illustrative application and reciprocal critique, we identify where the approaches converge, complement one another, remain non-equivalent or stand in tension. Implications/Contributions: The contribution is practical guidance for selecting and relating the approaches, together with an iterative boundary–viability inquiry intended to generate reframings and interventions not produced by either initial analysis alone.",
         "speaker_id": "s20",
         "track_id": "t2",
@@ -592,14 +592,6 @@
         "duration_minutes": 20
     },
     {
-        "id": "talk82",
-        "title": "When Viable Systems Fail: Explaining the Gap Between Diagnosis and Practice (workshop)",
-        "abstract": "",
-        "speaker_id": "s7",
-        "track_id": "t3",
-        "duration_minutes": 20
-    },
-    {
         "id": "talk83",
         "title": "From Values to Organizational Practice - the Contribution of the VSM to value-oriented leadership in the age of digitalization",
         "abstract": "New technologies create ambivalence. In these times of upheaval, values and ethics are needed as stabilizing forces and guides. Building on the VSM, this contribution explores some of the key organizational mechanisms that value-oriented leadership should focus on to ensure that it does not remain abstract but is actually reflected in the concrete actions and decisions of organizations. The VSM hereby reveals its particular strength: offering multi-faceted and detailed insights while preserving an overarching frame of reference. In addition to the organizational dimension of value-oriented leadership, this article derives from the VSM and the underlying Ashby’s Law an ethical imperative as well as guidelines for an ethical decision-making process.",
@@ -644,6 +636,22 @@
         "title": "The Next 100 Years of Stafford Beer: A Working Viable System Model for the Agentic AI Era",
         "speaker_id": "s36",
         "track_id": "t2",
+        "duration_minutes": 20
+    },
+    {
+        "id": "talk89",
+        "title": "When Viable Systems Fail: Explaining the Gap Between Diagnosis and Practice (workshop)",
+        "abstract": "",
+        "speaker_id": "s7",
+        "track_id": "t3",
+        "duration_minutes": 20
+    },
+    {
+        "id": "talk90",
+        "title": "Governance and the Politics of Possibility",
+        "abstract": "",
+        "speaker_id": "",
+        "track_id": "",
         "duration_minutes": 20
     },
     {
@@ -735,7 +743,7 @@
     },
     {
         "id": "cybersynvideo",
-        "title": "CYBERSYN video",
+        "title": "Governance and the Politics of Possibility - followed by CYBERSYN video",
         "abstract": "",
         "speaker_id": "",
         "track_id": "",
