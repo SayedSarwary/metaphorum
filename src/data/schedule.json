@@ -73,7 +73,7 @@
     },
     {
         "id": "sch10",
-        "talk_id": "talk5",
+        "talk_id": "talk21",
         "day": "2026-09-17",
         "start_time": "12:15",
         "end_time": "13:00",
@@ -145,19 +145,19 @@
     },
     {
         "id": "sch19",
-        "talk_id": "talk21",
-        "day": "2026-09-17",
-        "start_time": "14:45",
-        "end_time": "15:30",
-        "room": "Room C"
-    },
-    {
-        "id": "sch20",
         "talk_id": "talk18",
         "day": "2026-09-17",
         "start_time": "14:45",
         "end_time": "15:30",
-        "room": "Room D"
+        "room": "Room A"
+    },
+    {
+        "id": "sch20",
+        "talk_id": "talk83",
+        "day": "2026-09-17",
+        "start_time": "14:45",
+        "end_time": "15:30",
+        "room": "Room B"
     },
     {
         "id": "sch21",
@@ -165,7 +165,7 @@
         "day": "2026-09-17",
         "start_time": "14:45",
         "end_time": "15:30",
-        "room": "Room A"
+        "room": "Room C"
     },
     {
         "id": "sch22",
@@ -173,7 +173,7 @@
         "day": "2026-09-17",
         "start_time": "14:45",
         "end_time": "15:30",
-        "room": "Room B"
+        "room": "Room D"
     },
     {
         "id": "sch23",
@@ -353,7 +353,7 @@
     },
     {
         "id": "sch45",
-        "talk_id": "talk83",
+        "talk_id": "talk1",
         "day": "2026-09-18",
         "start_time": "11:30",
         "end_time": "12:15",
@@ -361,7 +361,7 @@
     },
     {
         "id": "sch46",
-        "talk_id": "talk11",
+        "talk_id": "talk5",
         "day": "2026-09-18",
         "start_time": "11:30",
         "end_time": "12:15",
@@ -393,7 +393,7 @@
     },
     {
         "id": "sch50",
-        "talk_id": "talk1",
+        "talk_id": "talk11",
         "day": "2026-09-18",
         "start_time": "12:15",
         "end_time": "13:00",
