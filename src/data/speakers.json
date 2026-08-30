@@ -555,8 +555,28 @@
 {
     "id": "s88",
     "full_name": "Hugo Palmarola",
+    "affiliation": "School of Design, Pontificia Universidad Católica de Chile",
+    "bio": "Hugo Palmarola is an associate professor at the School of Design of Pontificia Universidad Católica de Chile. He holds a PhD in Latin American studies from the UNAM Mexico and won the 2018 student essay prize from the Design History Society in the United Kingdom for his research. With Pedro Alonso, he received the 2014 Silver Lion for the Chilean Pavilion Monolith Controversies at the Venice Architecture Biennale, and they received the 2014 Deutsches Architekturmuseum Book Award for their companion book (Hatje Cantz, 2014). Palmarola and Alonso also published the book Panel (Architectural Association, 2014); curated the exhibition Flying Panels at the ArkDes Stockholm (2019–20); and released a companion book (Dom, 2019). Together with Alonso, he has been a researcher on projects about the Pulkovo observatories and NASA satellite stations (2016–26). Hugo Palmarola is the founder and chief editor, with Renata Leitao, of the new Latin American Design series, at Bloomsbury Publishing House.",
+    "photo_url": "/images/blank_400x400.png"
+},
+{
+    "id": "s89",
+    "full_name": "Eden Medina",
+    "affiliation": "Massachusetts Institute of Technology (MIT)",
+    "bio": "Eden Medina is professor of science, technology, and society at the Massachusetts Institute of Technology (MIT), and department head of the MIT Program in Science, Technology, and Society. She is the author of Cybernetic Revolutionaries: Technology and Politics in Allende’s Chile (MIT Press, 2011), which won the 2012 Edelstein Prize for best book on the history of technology and the 2012 Computer History Museum Prize for best book on the history of computing. Her coedited volume, Beyond Imported Magic: Essays on Science, Technology, and Society in Latin America (MIT Press, 2014), received the Amsterdamska Award from the European Society for the Study of Science and Technology in 2016. Her research focuses on the ways science, technology, and design intersect with processes of political change. She holds a PhD in the history and social study of science and technology from MIT and a master’s degree in studies of law from Yale Law School.",
+    "photo_url": "/images/blank_400x400.png"
+},
+{
+    "id": "s90",
+    "full_name": "Pedro Ignacio Alonso",
+    "affiliation": "Pontificia Universidad Católica de Chile",
+    "bio": "Pedro Ignacio Alonso holds a PhD in architecture from the Architectural Association in London and heads the PhD program in architecture, design, and urban studies at Pontificia Universidad Católica de Chile. He was a Princeton-Mellon Fellow at Princeton University (2015–16), and a resident architect at the Rockefeller Foundation Bellagio Center in 2019. With Hugo Palmarola, he received the 2014 Silver Lion for the Chilean Pavilion Monolith Controversies at the Venice Architecture Biennale, and they jointly received the 2014 Deutsches Architekturmuseum Book Award for their companion book (Hatje Cantz, 2014). Monolith Controversies is now a permanent exhibit at the Museo de la Memoria y Derechos Humanos in Chile. Alonso and Palmarola also published the book Panel (Architectural Association, 2014); curated the exhibition Flying Panels at the ArkDes Stockholm (2019–20); and released a companion book (Dom, 2019). Other publications include Space Race Archaeologies (Dom, 2016) and Sensation and Architecture (MIT Press, 2025) with Paulina Bitran.",
+    "photo_url": "/images/blank_400x400.png"
+},
+{
+    "id": "s91",
+    "full_name": "Jose C Mariategui",
     "affiliation": "",
-    "bio": "",
     "photo_url": "/images/blank_400x400.png"
 }
 ]

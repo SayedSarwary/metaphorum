@@ -655,6 +655,30 @@
         "duration_minutes": 20
     },
     {
+        "id": "talk91",
+        "title": "Reconstruction of the Cybersyn Operating Room",
+        "abstract": "This article and photo essay will present the history and international impact of the reconstruction of the Cybersyn operating room, conceived by Stafford Beer, designed by the INTEC Industrial Design Department in 1973, and reconstructed 50 years later for the exhibition “How to Design a Revolution: The Chilean Path to Design,” a show about graphic and industrial design during the government of Salvador Allende in Chile. The exhibition was conceived through the interdisciplinary research and creative work of professors from the Pontifical Catholic University of Chile and the Massachusetts Institute of Technology in the United States. This exhibition was inaugurated at the La Moneda Cultural Center in Santiago, Chile, between 2023 and 2024, to commemorate the 50th anniversary of the civil-military coup d'état. It was later presented at the Disseny Hub in Barcelona in 2025. This exhibition will be held between 2026 and 2027 at the Museum Angewandte Kunst in Frankfurt as part of the World Design Capital Frankfurt 2026 event. The exhibition comprises design pieces that aimed to democratize reading and music, reduce technological dependence, and combat childhood malnutrition, among other goals. One of the most outstanding pieces in the exhibition is the first comprehensive and functional reconstruction of the Cybersyn operating room. This article offers a visual account of the journeys that made the reconstruction of this project possible—a milestone in the history of design and cybernetics with which exhibition visitors can now interact.",
+        "speaker_id": "s89",
+        "track_id": "t5",
+        "duration_minutes": 20
+    },
+    {
+        "id": "talk92",
+        "title": "Reconstruction of the Cybersyn Operating Room",
+        "abstract": "This article and photo essay will present the history and international impact of the reconstruction of the Cybersyn operating room, conceived by Stafford Beer, designed by the INTEC Industrial Design Department in 1973, and reconstructed 50 years later for the exhibition “How to Design a Revolution: The Chilean Path to Design,” a show about graphic and industrial design during the government of Salvador Allende in Chile. The exhibition was conceived through the interdisciplinary research and creative work of professors from the Pontifical Catholic University of Chile and the Massachusetts Institute of Technology in the United States. This exhibition was inaugurated at the La Moneda Cultural Center in Santiago, Chile, between 2023 and 2024, to commemorate the 50th anniversary of the civil-military coup d'état. It was later presented at the Disseny Hub in Barcelona in 2025. This exhibition will be held between 2026 and 2027 at the Museum Angewandte Kunst in Frankfurt as part of the World Design Capital Frankfurt 2026 event. The exhibition comprises design pieces that aimed to democratize reading and music, reduce technological dependence, and combat childhood malnutrition, among other goals. One of the most outstanding pieces in the exhibition is the first comprehensive and functional reconstruction of the Cybersyn operating room. This article offers a visual account of the journeys that made the reconstruction of this project possible—a milestone in the history of design and cybernetics with which exhibition visitors can now interact.",
+        "speaker_id": "s90",
+        "track_id": "t5",
+        "duration_minutes": 20
+    },
+    {
+        "id": "talk93",
+        "title": "Governance and the Politics of Possibility",
+        "abstract": "",
+        "speaker_id": "s91",
+        "track_id": "",
+        "duration_minutes": 20
+    },
+    {
         "id": "worldcafe",
         "title": "World Café: How should we progress Stafford Beer's legacy?",
         "speaker_id": "",
@@ -736,14 +760,6 @@
     {
         "id": "digitalscreening",
         "title": "Digital Museum/Video Documentaries Screening",
-        "abstract": "",
-        "speaker_id": "",
-        "track_id": "",
-        "duration_minutes": 20
-    },
-    {
-        "id": "cybersynvideo",
-        "title": "Governance and the Politics of Possibility - followed by CYBERSYN video",
         "abstract": "",
         "speaker_id": "",
         "track_id": "",
