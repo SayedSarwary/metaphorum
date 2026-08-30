@@ -430,7 +430,7 @@
     "id": "s70",
     "full_name": "Robin Asby",
     "affiliation": "",
-    "bio": "Robin Asby is a writer and researcher, and a retired academic, entrepreneur, and consultant, author of ‘Thinking Systems: an organic language of harmony for human survival‘, published by Triachy Press in 2021. I obtained a degree in Mathematics from Cambridge University (1965), and a PhD from London University in Mathematical Physics (1968). In my career I have held posts in a number of UK universities and one in the United States. I spent 16 years training teachers, and have also worked for a short time in information technology. My major research interest has been in the development of understanding of Systems Thinking, and its underpinning philosophy. I am currently working on two projects. The first of these projects is to investigate how we can build a truly democratic governing system; that is a governing system to which everyone can contribute and which uses everyone’s expertise. The second project is to better explain the central thesis of my book, which is that Western Society has eschewed process thinking to its detriment.  ",
+    "bio": "Robin Asby is a writer and researcher, and a retired academic, entrepreneur, and consultant, author of ‘Thinking Systems: an organic language of harmony for human survival‘, published by Triachy Press in 2021. I obtained a degree in Mathematics from Cambridge University (1965), and a PhD from London University in Mathematical Physics (1968). In my career I have held posts in a number of UK universities and one in the United States. I spent 16 years training teachers, and have also worked for a short time in information technology. My major research interest has been in the development of understanding of Systems Thinking, and its underpinning philosophy. I am currently working on two projects. The first of these projects is to investigate how we can build a truly democratic governing system; that is a governing system to which everyone can contribute and which uses everyone’s expertise. The second project is to better explain the central thesis of my book, which is that Western Society has eschewed process thinking to its detriment.",
     "photo_url": "/images/Robin_Asby.jpeg"
 },
 {
@@ -555,6 +555,13 @@
 {
     "id": "s88",
     "full_name": "Hugo Palmarola",
+    "affiliation": "",
+    "bio": "",
+    "photo_url": "/images/blank_400x400.png"
+},
+{
+    "id": "s89",
+    "full_name": "Penny Marrington",
     "affiliation": "",
     "bio": "",
     "photo_url": "/images/blank_400x400.png"

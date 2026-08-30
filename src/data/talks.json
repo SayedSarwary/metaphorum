@@ -449,7 +449,7 @@
     },
     {
         "id": "talk63",
-        "title": "Community Governance",
+        "title": "Cybernetics of Community Development – A TEAM (Thinking with Every Available Mind) Activity",
         "abstract": "My contributions to establishing the Bloomfield Community Centre in Narberth, Pembrokeshire (1980s), and founding the Todmorden Learning Centre in West Yorkshire (2010s) have led to the understanding presented here.  The two central themes of community development:- providing opportunities for establishing and developing relationships between members of the community; understanding successful democratic cooperative managing of the processes involved; viz- Creating a community hub where members of the community can meet so that new relationships are made and old relationships are strengthened. The hub must be welcoming to all, drawing people in to enjoy themselves, discuss problems, and begin the tasks of improving the community. The hub should become a seeding ground for ideas, and collective help, establishing community enterprises which are grounded in supporting the community and in cooperative ideals. This will lessen dependence on outside provision of the necessary goods and services that are required by the community. Ensuring the ideals and culture developed in the hub become those of the formal community government will further enable development towards sustainability, opening the possibility of new funding. Spreading the ideas and culture of sustainability and cooperation to surrounding communities, helping build their communities toward sustainability will strengthen our community in trading locally, gathering new ideas, and helping others. Working together with neighbouring communities when they have achieved the first four stages of this journey will enable this culture and way of being to move to the next level of governing.",
         "speaker_id": "s70",
         "track_id": "t4",
@@ -655,6 +655,14 @@
         "duration_minutes": 20
     },
     {
+        "id": "talk91",
+        "title": "Cybernetics of Community Development – A TEAM (Thinking with Every Available Mind) Activity",
+        "abstract": "My contributions to establishing the Bloomfield Community Centre in Narberth, Pembrokeshire (1980s), and founding the Todmorden Learning Centre in West Yorkshire (2010s) have led to the understanding presented here.  The two central themes of community development:- providing opportunities for establishing and developing relationships between members of the community; understanding successful democratic cooperative managing of the processes involved; viz- Creating a community hub where members of the community can meet so that new relationships are made and old relationships are strengthened. The hub must be welcoming to all, drawing people in to enjoy themselves, discuss problems, and begin the tasks of improving the community. The hub should become a seeding ground for ideas, and collective help, establishing community enterprises which are grounded in supporting the community and in cooperative ideals. This will lessen dependence on outside provision of the necessary goods and services that are required by the community. Ensuring the ideals and culture developed in the hub become those of the formal community government will further enable development towards sustainability, opening the possibility of new funding. Spreading the ideas and culture of sustainability and cooperation to surrounding communities, helping build their communities toward sustainability will strengthen our community in trading locally, gathering new ideas, and helping others. Working together with neighbouring communities when they have achieved the first four stages of this journey will enable this culture and way of being to move to the next level of governing.",
+        "speaker_id": "s89",
+        "track_id": "t4",
+        "duration_minutes": 20
+    },
+    {
         "id": "worldcafe",
         "title": "World Café: How should we progress Stafford Beer's legacy?",
         "speaker_id": "",
@@ -765,5 +773,4 @@
         "track_id": "",
         "duration_minutes": 20
     }
-
   ]
