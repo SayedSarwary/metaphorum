@@ -140,13 +140,6 @@
     "photo_url": "/images/Gary_Smith.jpeg"
 },
 {
-    "id": "s22",
-    "full_name": "Jeremy Pryce (TBC)",
-    "affiliation": "Projekt Bergsjön",
-    "bio": "Jeremy Pryce holds a first degree in International Relations and has worked across professional sport, education, organisational development, and community-based projects. A former professional athlete, he has spent much of his later work exploring how sport, education, and civic participation can support human development and social belonging. He currently leads Projekt Bergsjön, an initiative supported by Allmänna Arvsfonden and IFK Göteborg Friidrott, focused on participation, belonging, and community-based development through sport. He also serves on the advisory board for Frihamnsdagarna in Gothenburg, a civic platform for democracy and public dialogue. His current work explores how systems preserve, distort, or lose contact with their foundational purpose under pressure. He is developing two related lines of inquiry: ontological foundations for ethical and regenerative viable systems, and Incentive Gravity as a framework for understanding institutional drift, distributed responsibility, and behavioural tendency within complex systems. His interest in Stafford Beer and the Viable System Model comes from a practical concern with how governance, feedback, identity, and purpose can help systems remain adaptive without losing ethical orientation.",
-    "photo_url": "/images/Jeremy_Pryce.jpeg"
-},
-{
     "id": "s23",
     "full_name": "Victor Ganon",
     "affiliation": "",
@@ -413,13 +406,6 @@
     "photo_url": "/images/Ed_van_der_Winden.png"
 },
 {
-    "id": "s67",
-    "full_name": "Leonardo Lavanderos (TBC)",
-    "affiliation": "",
-    "bio": "Leonardo Lavanderos is a Chilean biologist, researcher, and relational thinker, nominated for Chile’s National Science Prize in 2024. For more than four decades, his work has explored life, cognition, organizations, and territory through a relational and cybernetic perspective. He holds a PhD in Biological Sciences from the University of Chile and has developed an interdisciplinary body of work spanning biology, cybernetics, complexity, and organizational studies. His contributions include Ecopoiesis, Triferential Relational Logic, Biovariety, and Relational Neurostrategy, theoretical and methodological developments aimed at understanding viability, cognition, and organization beyond conventional systemic and structural approaches. As a researcher, author, professor, and international speaker, his work is grounded in a central proposition: things do not precede relations; relations give rise to what we distinguish as things. His scientific and intellectual trajectory is ultimately driven by a persistent question: how can we understand life without separating it from the relational fabric through which it becomes possible?",
-    "photo_url": "/images/Leonardo_Lavanderos.jpeg"
-},
-{
     "id": "s68",
     "full_name": "Maria Giovanna Corrado",
     "affiliation": "",
@@ -472,8 +458,8 @@
     "id": "s76",
     "full_name": "Gary Evans",
     "affiliation": "Bournemouth University Business School",
-    "bio": "",
-    "photo_url": "/images/blank_400x400.png"
+    "bio": "Gary Evans lectures at Bournemouth University Business School, UK.  He is an emerging thought leader in community operational research (Community OR) and medical sociology.  He has undertaken qualitative research into physical activity, health, and well-being interventions for inactive people since 2004. He has been Principal Investigator for a Fusion-funded project examining the effectiveness of physical activity, health, and well-being interventions for people living with cancer in southwest England. The study engaged a variety of healthcare professionals, policymakers, deliverers, and patients. It highlighted the fragmented state of cancer support services in southwest England and the need for charities to support those rehabilitating following their cancer diagnosis to achieve well-being and a new quality of life. Furthermore, the participants co-created new models to improve the situation in response to the results. More recently, he was the Principal Investigator for the funded Active Ageing Programme evaluation, in collaboration with Active Dorset, on behalf of Sport England. The evaluation lasted 4 years, and over sixty healthcare, community, and policy participants contributed, resulting in systems change to embed physical activity in many NHS Pathways. He is currently leading a narrative inquiry investigation into illness experience and physical activity relationships in Devon-based charities.    ",
+    "photo_url": "/images/Gary_Evans.jpeg"
 },
 {
     "id": "s77",
@@ -542,8 +528,8 @@
     "id": "s86",
     "full_name": "Wolfang Lassl",
     "affiliation": "",
-    "bio": "",
-    "photo_url": "/images/blank_400x400.png"
+    "bio": "Wolfgang Lassl is the founder and managing partner of the Qwinnt Management Institute (Austria) and a member of the leadership team of the Global Peter Drucker Forum. He works as a management consultant, author, and researcher specializing in strategy, organizational transformation processes, and leadership. Wolfgang Lassl advises organizations in the private, public, and non-profit sector. He has published a series of three books on the VSM (The Viability of Organizations, published by Springer Nature). He holds a Master’s degree in Theology and International Relations (as a Fulbright scholar), and has worked and lived in Western Europe, North America, and South Africa.",
+    "photo_url": "/images/Wolfang_Lassl.jpeg"
 },
 {
     "id": "s87",
