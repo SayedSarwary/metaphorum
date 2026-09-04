@@ -45,7 +45,7 @@
     "id": "s8",
     "full_name": "Allenna Leonard",
     "affiliation": "Cwarel Isaf Institute",
-    "bio": "Allenna is an American/Canadian consultant in organizational cybernetics based in Toronto. Her academic background includes a BA from St. John’s College, a MA from George Washington University and a Ph.D. from the University of Maryland. She is a licensee of Team Syntegrity, Chair of the Ecologos Environmental Institute.  Beginning in the 1980’s and continuing until his death, she worked with Stafford Beer on a variety of consulting and educational projects in North America, South America and Europe, the most prominent being Projecto Urucib in Montevideo Uruguay for the UNDP.  Her interests include improving accountability measures for soft information and applications of cybernetics to governance and ecology.  She has taught university courses and published numerous papers and articles. Much of her work has been focused on the use of Beer’s Viable System Model and Team Syntegrity Process. She is a past president and Fellow of the American Society for Cybernetics, and received its McCulloch Award and is also a past president of the International Society for Systems Science.  She continues to support and extend Beer’s work in Conference presentations especially Metaphorum, the organization founded to continue his legacy.",
+    "bio": "Principal at Cwarel Isaf Institute and independent consultant based in Toronto. She worked with Stafford Beer from the early 1980s until his death in 2002. Former President of Metaphorum, the American Society for Cybernetics, and the International Society for Systems Science. She applies cybernetic approaches including the Viable System Model, Team Syntegrity, and Operations Room design in nonprofit and business organizations.",
     "photo_url": "https://avatars.sched.co/9/19/2137512/avatar.jpg?d5a"
 },
 {
@@ -68,6 +68,13 @@
     "affiliation": "Universidad del Rosario,Colombia",
     "bio": "An attorney (Universidad del Rosario - Colombia). He holds a doctorate and master's degree in Ethics and Democracy from the University of Valencia (Spain), master’s degrees in economics (National University of Colombia) and in Political Science (IAEE - Madrid). His research lines focus on truth studies and peacebuilding, as well as organizational cybernetics applied to law and public administration. Serves as an arbitrator at the Arbitration Centers of the Chambers of Commerce of Bogotá, Barranquilla, Cartagena, and Pereira. Within the Council of State of Colombia, he has held the positions of President, Magistrate of the Consultation and Civil Service Chamber, and Ad Hoc Justice of the Council of State. He has served as Minister of Education, as well as Deputy Comptroller General of the Republic of Colombia, Ambassador to Venezuela, and Director of the World Center for Research and Training in Conflict Resolution. An active member of WOSC, the Colombian Academy of Jurisprudence, the Ibero-American Forum of Administrative Law (FIDA), and the Franco-Colombian Association of Jurists (AJFC). Author of some books and papers. He serves as a reviewer for international   journals.  During his professional career he was a professor at several universities, international lecturer, organizational consultant, and litigator. ",
     "photo_url": "/images/german.jpg"
+},
+{
+    "id": "s12",
+    "full_name": "John Beckford",
+    "affiliation": "Beckford Consulting",
+    "bio": "A practising consultant cybernetician since 1990. An experienced Board Chair and Non-Executive Director with a focus on developing strategic and operational adaptation and transformation rooted in cybernetic reasoning. His approach seeks to enhance performance through new insights and thoughtful innovation, working especially with organisations facing challenges of adaptation, survival and growth. Leadership built on effective mentoring enables his coherent whole system approach synthesising the three dimensions of people, process and information. His experience extends across public, private and 3rd sector , includeinginfrastructure, energy, transport, housing, criminal justice, social care, health care and both service focused and manufacturing organisations. Partner in Beckford Consulting, Chair of Corehaus Ltd (MMC housing), Visiting Professor at University College London and at Loughborough University Business School . Until April 2025, he was Board Chair at Rise Mutual CIC (Domestic Abuse, VAWG) and NED at Fusion21 Ltd. (2014-2023). Currently co-supervising 3 doctoral students researching data driven decision making and 3 researching long term effectiveness of interventions with perpetrators of domestic abuse/VAWG. PhD in Management Systems and Sciences (Hull). Fellow and past President of the Cybernetics Society, Member of The Institute of Management Services, Fellow of the RSA and Fellow of the Institute of Engineering and Technology. ",
+    "photo_url": "/images/John_Beckford.jpeg"
 },
 {
     "id": "s13",
@@ -131,6 +138,13 @@
     "affiliation": "",
     "bio": "Gary Smith is a Senior Expert in systems engineering and architecture within the aerospace, defence and security sector, and a Past-President of the International Society for the Systems Sciences. He is also Section Editor for Foundations of Systems Engineering in the Systems Engineering Body of Knowledge (SEBoK). His professional practice spans systems engineering, enterprise and mission architecture, organisational transformation, and integrated business management systems. His interests include systems science, methodological pluralism, organisational cybernetics, system dynamics, Soft Systems Methodology, and the relationship between systems thinking and systems engineering. Gary’s research explores meta-frameworks for organising transversal knowledge about systems, relationships among form, function and fit, and systemic coherence in human-AI collaboration. He is a guest editor for work bringing systems thinking and systems biology into closer dialogue. He contributes regularly to international systems communities, conferences and collaborative research initiatives, seeking to connect foundational systems theory with practical challenges in organisations, engineering, health and society.",
     "photo_url": "/images/Gary_Smith.jpeg"
+},
+{
+    "id": "s22",
+    "full_name": "Jeremy Pryce",
+    "affiliation": "Projekt Bergsjön",
+    "bio": "Jeremy Pryce holds a first degree in International Relations and has worked across professional sport, education, organisational development, and community-based projects. A former professional athlete, he has spent much of his later work exploring how sport, education, and civic participation can support human development and social belonging. He currently leads Projekt Bergsjön, an initiative supported by Allmänna Arvsfonden and IFK Göteborg Friidrott, focused on participation, belonging, and community-based development through sport. He also serves on the advisory board for Frihamnsdagarna in Gothenburg, a civic platform for democracy and public dialogue. His current work explores how systems preserve, distort, or lose contact with their foundational purpose under pressure. He is developing two related lines of inquiry: ontological foundations for ethical and regenerative viable systems, and Incentive Gravity as a framework for understanding institutional drift, distributed responsibility, and behavioural tendency within complex systems. His interest in Stafford Beer and the Viable System Model comes from a practical concern with how governance, feedback, identity, and purpose can help systems remain adaptive without losing ethical orientation.",
+    "photo_url": "/images/Jeremy_Pryce.jpeg"
 },
 {
     "id": "s23",
@@ -399,6 +413,13 @@
     "photo_url": "/images/Ed_van_der_Winden.png"
 },
 {
+    "id": "s67",
+    "full_name": "Leonardo Lavanderos",
+    "affiliation": "",
+    "bio": "Leonardo Lavanderos is a Chilean biologist, researcher, and relational thinker, nominated for Chile’s National Science Prize in 2024. For more than four decades, his work has explored life, cognition, organizations, and territory through a relational and cybernetic perspective. He holds a PhD in Biological Sciences from the University of Chile and has developed an interdisciplinary body of work spanning biology, cybernetics, complexity, and organizational studies. His contributions include Ecopoiesis, Triferential Relational Logic, Biovariety, and Relational Neurostrategy, theoretical and methodological developments aimed at understanding viability, cognition, and organization beyond conventional systemic and structural approaches. As a researcher, author, professor, and international speaker, his work is grounded in a central proposition: things do not precede relations; relations give rise to what we distinguish as things. His scientific and intellectual trajectory is ultimately driven by a persistent question: how can we understand life without separating it from the relational fabric through which it becomes possible?",
+    "photo_url": "/images/Leonardo_Lavanderos.jpeg"
+},
+{
     "id": "s68",
     "full_name": "Maria Giovanna Corrado",
     "affiliation": "",
@@ -409,7 +430,7 @@
     "id": "s70",
     "full_name": "Robin Asby",
     "affiliation": "",
-    "bio": "Robin Asby is a writer and researcher, and a retired academic, entrepreneur, and consultant, author of ‘Thinking Systems: an organic language of harmony for human survival‘, published by Triachy Press in 2021. I obtained a degree in Mathematics from Cambridge University (1965), and a PhD from London University in Mathematical Physics (1968). In my career I have held posts in a number of UK universities and one in the United States. I spent 16 years training teachers, and have also worked for a short time in information technology. My major research interest has been in the development of understanding of Systems Thinking, and its underpinning philosophy. I am currently working on two projects. The first of these projects is to investigate how we can build a truly democratic governing system; that is a governing system to which everyone can contribute and which uses everyone’s expertise. The second project is to better explain the central thesis of my book, which is that Western Society has eschewed process thinking to its detriment.",
+    "bio": "Robin Asby is a writer and researcher, and a retired academic, entrepreneur, and consultant, author of ‘Thinking Systems: an organic language of harmony for human survival‘, published by Triachy Press in 2021. I obtained a degree in Mathematics from Cambridge University (1965), and a PhD from London University in Mathematical Physics (1968). In my career I have held posts in a number of UK universities and one in the United States. I spent 16 years training teachers, and have also worked for a short time in information technology. My major research interest has been in the development of understanding of Systems Thinking, and its underpinning philosophy. I am currently working on two projects. The first of these projects is to investigate how we can build a truly democratic governing system; that is a governing system to which everyone can contribute and which uses everyone’s expertise. The second project is to better explain the central thesis of my book, which is that Western Society has eschewed process thinking to its detriment.  ",
     "photo_url": "/images/Robin_Asby.jpeg"
 },
 {
@@ -450,9 +471,9 @@
 {
     "id": "s76",
     "full_name": "Gary Evans",
-    "affiliation": "Bournemouth University Business School",
-    "bio": "Gary Evans lectures at Bournemouth University Business School, UK.  He is an emerging thought leader in community operational research (Community OR) and medical sociology.  He has undertaken qualitative research into physical activity, health, and well-being interventions for inactive people since 2004. He has been Principal Investigator for a Fusion-funded project examining the effectiveness of physical activity, health, and well-being interventions for people living with cancer in southwest England. The study engaged a variety of healthcare professionals, policymakers, deliverers, and patients. It highlighted the fragmented state of cancer support services in southwest England and the need for charities to support those rehabilitating following their cancer diagnosis to achieve well-being and a new quality of life. Furthermore, the participants co-created new models to improve the situation in response to the results. More recently, he was the Principal Investigator for the funded Active Ageing Programme evaluation, in collaboration with Active Dorset, on behalf of Sport England. The evaluation lasted 4 years, and over sixty healthcare, community, and policy participants contributed, resulting in systems change to embed physical activity in many NHS Pathways. He is currently leading a narrative inquiry investigation into illness experience and physical activity relationships in Devon-based charities.    ",
-    "photo_url": "/images/Gary_Evans.jpeg"
+    "affiliation": "",
+    "bio": "",
+    "photo_url": "/images/blank_400x400.png"
 },
 {
     "id": "s77",
@@ -515,55 +536,27 @@
     "full_name": "Louis Klein",
     "affiliation": "IFSR (International Federation of Systems Research)",
     "bio": "",
-    "photo_url": "https://metaphorum.org/wp-content/uploads/2026/05/Louis-Klein-picture.jpg"
+    "photo_url": "/images/"
 },
 {
     "id": "s86",
     "full_name": "Wolfang Lassl",
     "affiliation": "",
-    "bio": "Wolfgang Lassl is the founder and managing partner of the Qwinnt Management Institute (Austria) and a member of the leadership team of the Global Peter Drucker Forum. He works as a management consultant, author, and researcher specializing in strategy, organizational transformation processes, and leadership. Wolfgang Lassl advises organizations in the private, public, and non-profit sector. He has published a series of three books on the VSM (The Viability of Organizations, published by Springer Nature). He holds a Master’s degree in Theology and International Relations (as a Fulbright scholar), and has worked and lived in Western Europe, North America, and South Africa.",
-    "photo_url": "/images/Wolfang_Lassl.jpeg"
+    "bio": "",
+    "photo_url": "/images/"
 },
 {
     "id": "s87",
     "full_name": "Michael Ben Eli",
     "affiliation": "",
     "bio": "",
-    "photo_url": "/images/blank_400x400.png"
+    "photo_url": "/images/"
 },
 {
     "id": "s88",
     "full_name": "Hugo Palmarola",
-    "affiliation": "School of Design, Pontificia Universidad Católica de Chile",
-    "bio": "Hugo Palmarola is an associate professor at the School of Design of Pontificia Universidad Católica de Chile. He holds a PhD in Latin American studies from the UNAM Mexico and won the 2018 student essay prize from the Design History Society in the United Kingdom for his research. With Pedro Alonso, he received the 2014 Silver Lion for the Chilean Pavilion Monolith Controversies at the Venice Architecture Biennale, and they received the 2014 Deutsches Architekturmuseum Book Award for their companion book (Hatje Cantz, 2014). Palmarola and Alonso also published the book Panel (Architectural Association, 2014); curated the exhibition Flying Panels at the ArkDes Stockholm (2019–20); and released a companion book (Dom, 2019). Together with Alonso, he has been a researcher on projects about the Pulkovo observatories and NASA satellite stations (2016–26). Hugo Palmarola is the founder and chief editor, with Renata Leitao, of the new Latin American Design series, at Bloomsbury Publishing House.",
-    "photo_url": "/images/Hugo_Palmarola.jpeg"
-},
-{
-    "id": "s89",
-    "full_name": "Eden Medina",
-    "affiliation": "Massachusetts Institute of Technology (MIT)",
-    "bio": "Eden Medina is professor of science, technology, and society at the Massachusetts Institute of Technology (MIT), and department head of the MIT Program in Science, Technology, and Society. She is the author of Cybernetic Revolutionaries: Technology and Politics in Allende’s Chile (MIT Press, 2011), which won the 2012 Edelstein Prize for best book on the history of technology and the 2012 Computer History Museum Prize for best book on the history of computing. Her coedited volume, Beyond Imported Magic: Essays on Science, Technology, and Society in Latin America (MIT Press, 2014), received the Amsterdamska Award from the European Society for the Study of Science and Technology in 2016. Her research focuses on the ways science, technology, and design intersect with processes of political change. She holds a PhD in the history and social study of science and technology from MIT and a master’s degree in studies of law from Yale Law School.",
-    "photo_url": "/images/blank_400x400.png"
-},
-{
-    "id": "s90",
-    "full_name": "Pedro Ignacio Alonso",
-    "affiliation": "Pontificia Universidad Católica de Chile",
-    "bio": "Pedro Ignacio Alonso holds a PhD in architecture from the Architectural Association in London and heads the PhD program in architecture, design, and urban studies at Pontificia Universidad Católica de Chile. He was a Princeton-Mellon Fellow at Princeton University (2015–16), and a resident architect at the Rockefeller Foundation Bellagio Center in 2019. With Hugo Palmarola, he received the 2014 Silver Lion for the Chilean Pavilion Monolith Controversies at the Venice Architecture Biennale, and they jointly received the 2014 Deutsches Architekturmuseum Book Award for their companion book (Hatje Cantz, 2014). Monolith Controversies is now a permanent exhibit at the Museo de la Memoria y Derechos Humanos in Chile. Alonso and Palmarola also published the book Panel (Architectural Association, 2014); curated the exhibition Flying Panels at the ArkDes Stockholm (2019–20); and released a companion book (Dom, 2019). Other publications include Space Race Archaeologies (Dom, 2016) and Sensation and Architecture (MIT Press, 2025) with Paulina Bitran.",
-    "photo_url": "/images/blank_400x400.png"
-},
-{
-    "id": "s91",
-    "full_name": "Jose C Mariategui",
     "affiliation": "",
     "bio": "",
-    "photo_url": "/images/blank_400x400.png"
-},
-{
-    "id": "s92",
-    "full_name": "Frank Hemmes",
-    "affiliation": "Ofgem",
-    "bio": "Frank Hemmes is Head of Heat Networks Operations at Ofgem, the UK energy regulator. He has over fourteen years of experience in operational and compliance roles within a regulatory setting. Frank completed the Royal Academy of Engineering Policy Fellowship in 2025, and completed VSM Practitioner training in March 2026. He has had an amateur's interest in systems thinking for several years now. In his spare time Frank is a trade union organiser.",
-    "photo_url": "/images/Frank_Hemmes.jpeg"
+    "photo_url": "/images/"
 }
 ]

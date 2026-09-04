@@ -8,7 +8,7 @@
 import json
 
 DATAPATH = './data/'
-schedsrc = DATAPATH + "MAN_2026_Schedule_DRAFT4_website_version.csv"
+schedsrc = DATAPATH + "MAN_2026_Schedule_DRAFT11_website_version_2026-09-03.csv"
 
 
 schedule = []
