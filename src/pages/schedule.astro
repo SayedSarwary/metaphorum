@@ -90,9 +90,11 @@ function formatTime(timeStr: string) {
                         {groupedByDay[day].map(item => (
                             <div class="schedule-item" id={item.talk?.id}>
                                 <div class="time-col">
+
                                     <span class="start-time">{formatTime(item.start_time)}</span>
+
+                                    <span class="end-time">(ends {formatTime(item.end_time)})</span>
                                     <!--
-                                    <span class="end-time">{formatTime(item.end_time)}</span>
                                     -->
                                 </div>
                                 <div class="details-col">
