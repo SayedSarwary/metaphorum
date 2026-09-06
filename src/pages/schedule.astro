@@ -67,11 +67,10 @@ function formatTime(timeStr: string) {
                 expect times and rooms to change.
             </p>
             -->
-            <p>
-                There may be changes or corrections made from time to time, so
+            <p class="page-header-note">
+                Changes or corrections will be made from time to time, so
                 please continue to check regularly. Where an inconsistency is
-                found, assume the printable PDF programme is the correct
-                version.
+                found, the printable PDF version will be most up to date.
             </p>
         </div>
     </section>
@@ -90,12 +89,8 @@ function formatTime(timeStr: string) {
                         {groupedByDay[day].map(item => (
                             <div class="schedule-item" id={item.talk?.id}>
                                 <div class="time-col">
-
                                     <span class="start-time">{formatTime(item.start_time)}</span>
-
                                     <span class="end-time">(ends {formatTime(item.end_time)})</span>
-                                    <!--
-                                    -->
                                 </div>
                                 <div class="details-col">
                                     <div class="track-tag" style="background-color: var(--color-background-alt)">
@@ -129,6 +124,11 @@ function formatTime(timeStr: string) {
         background: var(--color-primary);
         color: white;
         padding: 3rem 0;
+    }
+
+    .page-header-note {
+        color: white;
+        font-size: 0.9em;
     }
 
     .schedule-day {
