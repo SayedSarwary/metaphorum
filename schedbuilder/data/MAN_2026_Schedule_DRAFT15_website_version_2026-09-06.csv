@@ -1,7 +1,7 @@
 sch1	2026-09-17	09:00	09:30		reception	Reception	
 sch2	2026-09-17	09:30	09:50	plenary	opening	Conference Opening	A Espinosa, J Walker, A Leonard
-sch3	2026-09-17	09:50	10:20	plenary	launch	Launching 100 Years Festschrift	A Espinosa, M Schwaninger, J.P. Rios
-sch4	2026-09-17	10:20	10:30	plenary	sbholistic	Re-launching the 70 Years Festschcrift	Allenna Leonard / Vanilla Beer / A Espinosa
+sch3	2026-09-17	09:50	10:00	plenary	sbholistic	Re-launching the 70 Years Festschcrift	Allenna Leonard / Vanilla Beer / A Espinosa
+sch4	2026-09-17	10:00	10:30	plenary	launch	Launching 100 Years Festschrift	A Espinosa, M Schwaninger, J.P. Rios
 sch5	2026-09-17	10:30	11:00		coffee	Coffee 	Raul Espejo
 sch6	2026-09-17	11:00	11:45	Room A	talk6	Managing Organisational and Societal Complexity for a Fairer and More Sustainable New World	Angela Espinosa
 sch7	2026-09-17	11:00	11:45	Room B	talk50	CyberSystemic Tools for Organizational Advancement.	Markus Schwaninger
@@ -32,9 +32,9 @@ sch31	2026-09-17	16.:00	16:30	Room D	talk75	Midlife Chrysalis: from ‘good Chin
 sch32	2026-09-17	16:30	17:00	Room D	talk54	Design of a Cybernetic Governance Framework for Platform Tokenomics	Miguel Garcia Matas
 sch33	2026-09-17	17:00	17:45	Room A	talk85	Diagnosing the System for Systems Research: Recognising and Realising a Field in Itself and for Itself (IFSR)	Louis Klein (keynote)
 sch34	2026-09-17	17:00	17:45	Room B	talk84	Systems Thinking and Cybernetics -- the Missing Link in the Sustainability Discourse	Michael Ben Eli (keynote)
-sch35	2026-09-17	17:00	17:35	Room C	talk86	Cybersyn Exhibition (video) - Reconstruction of the Cybersyn Operating Room	H. Palmarola, E. Medina, P.L. Alonso
+sch35	2026-09-17	17:00	17:30	Room C	talk86	Cybersyn Exhibition (video) - Reconstruction of the Cybersyn Operating Room	H. Palmarola, E. Medina, P.L. Alonso
 sch36	2026-09-17	17:00	17:45	Room D	talk38	Architecture for Freedom: Syntegrity as an Educational Practice	José dos Santos Cabral Filho & Ana Paula Baltazar dos Santos
-sch37	2026-09-17	17:35	17:45	Room C	talk97	Stafford Beer in Latin America: Governance and the Politics of Possibility	Jose C Mariategui 
+sch37	2026-09-17	17:30	17:45	Room C	talk97	Stafford Beer in Latin America: Governance and the Politics of Possibility	Jose C Mariategui 
 sch38	2026-09-18	09:00	09:45	Room A	talk25	Building upon the Project Cybersyn: CyberSystemic Management for blending Structural Cybernetics and Relational Consonance	Francisco Caputo (keynote)
 sch39	2026-09-18	09:00	09:45	Room B	talk39	A Cybernetic Architecture for AI Governance: Integrating Identity, VSM, and Organizational Pathologies	José Pérez Ríos
 sch40	2026-09-18	09:00	09:45	Room C	talk36	Towards new economic and social structures for a collaborative, post-capitalistic society	Jon Walker
@@ -60,8 +60,8 @@ sch59	2026-09-18	14:00	14:45	Room C	talk52	From Cybersyn to the City: Variety En
 sch60	2026-09-18	14:00	14:45	Room D	talk43	The Speed Gap - Translating the Viable System Model for a New Generation of Practitioners 	Krishan Mathis
 sch61	2026-09-18	14:30	15:00	Room A	talk19	Taming the Digital Beast: Variety Engineering and the Quest for Techno-Eustress	Cristina Cervino & Francesco Caputo, Igor Perko
 sch62	2026-09-18	14:45	15:30	Room B	talk94	Purposive AI for the 21st Century Sustainable University	Katherine Farrell
-sch63	2026-09-18	14:45	15:30	Room C	talk73	Viable for Whom? Contested Identity in the VSM 	Terence Love
-sch64	2026-09-18	14:45	15:30	Room D	talk76	Diagnosing the System of the Self: Logical Closure, Normative Identity, and Existential Viability	Thomas McEvoy-Zafiropulos (NOT Saturday 19)
+sch63	2026-09-18	14:45	15:30	Room C	talk76	Diagnosing the System of the Self: Logical Closure, Normative Identity, and Existential Viability	Thomas McEvoy-Zafiropulos (NOT Saturday 19)
+sch64	2026-09-18	14:45	15:30	Room D	talk73	Viable for Whom? Contested Identity in the VSM 	Terence Love
 sch65	2026-09-18	15:00	15:30	Room A	talk24	Toward resilient and ethical viable tourism systems: a cybernetic view on marginal areas digital transformation in Italy	Fabiana Sepe & Simone Luongo, Giovanna Del Gaudio, Mario Tani, Gianpaolo Basile
 sch66	2026-09-18	15:30	16:00		coffee	Coffee	
 sch67	2026-09-18	16:00	16:30	Room A	talk49	Organizational Cybernetics in the Age of AI: Toward an Epistemic Conception of Viability	Maria Giovanna Corrado
@@ -69,7 +69,7 @@ sch68	2026-09-18	16:00	17:00	Room B	talk44	Cybernetic Futures (workshop)	Krishan
 sch69	2026-09-18	16:00	17:00	Room C	talk63	Community Governance (workshop)	Robin Asby & Penny Marrington 
 sch70	2026-09-18	16:00	17:00	Room D	talk37	A full software implementation of Stafford Beer's Viable System Model (VSM) as a complete enterprise management system (workshop)	Jonathan Huxley 
 sch71	2026-09-18	16:30	17:00	Room A	talk53	Charting the Boundaries of Accountability for Enhanced Airport Operational Resilience	Maurizio Tomasella
-sch72	2026-09-18	17:00	18:30	Room A	digitalscreening	Digital Museum/Video Documentaries Screening	A Espinosa, B Angelov, J Walker, V Beer, A Leonard, B Vaz, G Filewod
+sch72	2026-09-18	17:05	18:30	Room A	digitalscreening	Digital Museum/Video Documentaries Screening	A Espinosa, B Angelov, J Walker, V Beer, A Leonard, B Vaz, G Filewod
 sch73	2026-09-18	20:00	23:00		galadinner	Gala Dinner	
 sch74	2026-09-19	09:00	09:15		reception	Reception	
 sch75	2026-09-19	09:15	10:00	Room A	talk55	Elevating Stafford Beer’s Legacy: A Critical Systems Thinking Perspective on the Viable System Model	Mike Jackson (keynote)
@@ -83,12 +83,12 @@ sch82	2026-09-19	10:00	10:45	Room D	talk10	Designing Heterarchy: An Extension of
 sch83	2026-09-19	10:45	11:15		coffee	Coffee 	
 sch84	2026-09-19	11:15	12:00	Room A	talk64	Foundations in Dialogue: Comparing VSM and CSH through Checkland’s FMA Framework	Roelien Goede & Gary Smith
 sch85	2026-09-19	11:15	12:00	Room B	talk30	Autonomy and cohesion	Ivo Velitchkov
-sch86	2026-09-19	11:15	12:00	Room C	talk14	Exchange Ecologies and Existential Conductivity: A Cybernetic Framework for Hybrid Human Systems	Carlos Andrés Mejía Beltrán
-sch87	2026-09-19	11:15	12:00	Room D	talk45	The Social Movement of Tomorrow: Sharing Practical VSM Application	Leon Bellin
+sch86	2026-09-19	11:15	12:00	Room C	talk45	The Social Movement of Tomorrow: Sharing Practical VSM Application	Leon Bellin
+sch87	2026-09-19	11:15	12:00	Room D	talk14	Exchange Ecologies and Existential Conductivity: A Cybernetic Framework for Hybrid Human Systems	Carlos Andrés Mejía Beltrán
 sch88	2026-09-19	12:00	12:45	Room A	talk13	Temporal Freedom in Viable Systems: A Genealogical Analysis of Human and Machine Time in Organisational Cybernetics	Camilo Osejo  (workshop)
 sch89	2026-09-19	12:00	12:45	Room B	talk48	Enactive Viable Agency: A Process-Relational Grammar for Operationalizing the Viable System Model	Marcus Barrick
 sch90	2026-09-19	12:00	12:45	Room D	talk66	Gamifying the VSM	Sascha Kullak 
 sch91	2026-09-19	12:45	13:45		lunch	Lunch	
-sch92	2026-09-19	13:45	14:00	Room A	finalintro	Final session - Introduction	
-sch93	2026-09-19	14:00	16:00	Room A	worldcafe	World Café: Pathways forward	
-sch94	2026-09-19	15:45	16:15	Room A	closing	Closing Remarks & Farewell	
+sch92	2026-09-19	14:00	14:15	Room A	finalintro	Final session - Introduction	
+sch93	2026-09-19	14:15	16:15	Room A	worldcafe	World Café: Pathways forward	
+sch94	2026-09-19	16:15	16:30	Room A	closing	Closing Remarks & Farewell	
