@@ -17,17 +17,17 @@
     },
     {
         "id": "sch3",
-        "talk_id": "launch",
+        "talk_id": "sbholistic",
         "day": "2026-09-17",
         "start_time": "09:50",
-        "end_time": "10:20",
+        "end_time": "10:00",
         "room": "plenary"
     },
     {
         "id": "sch4",
-        "talk_id": "sbholistic",
+        "talk_id": "launch",
         "day": "2026-09-17",
-        "start_time": "10:20",
+        "start_time": "10:00",
         "end_time": "10:30",
         "room": "plenary"
     },
@@ -497,7 +497,7 @@
     },
     {
         "id": "sch63",
-        "talk_id": "talk73",
+        "talk_id": "talk76",
         "day": "2026-09-18",
         "start_time": "14:45",
         "end_time": "15:30",
@@ -505,7 +505,7 @@
     },
     {
         "id": "sch64",
-        "talk_id": "talk76",
+        "talk_id": "talk73",
         "day": "2026-09-18",
         "start_time": "14:45",
         "end_time": "15:30",
@@ -571,7 +571,7 @@
         "id": "sch72",
         "talk_id": "digitalscreening",
         "day": "2026-09-18",
-        "start_time": "17:00",
+        "start_time": "17:05",
         "end_time": "18:30",
         "room": "Room A"
     },
@@ -731,24 +731,24 @@
         "id": "sch92",
         "talk_id": "finalintro",
         "day": "2026-09-19",
-        "start_time": "13:45",
-        "end_time": "14:00",
+        "start_time": "14:00",
+        "end_time": "14:15",
         "room": "Room A"
     },
     {
         "id": "sch93",
         "talk_id": "worldcafe",
         "day": "2026-09-19",
-        "start_time": "14:00",
-        "end_time": "16:00",
+        "start_time": "14:15",
+        "end_time": "16:15",
         "room": "Room A"
     },
     {
         "id": "sch94",
         "talk_id": "closing",
         "day": "2026-09-19",
-        "start_time": "15:45",
-        "end_time": "16:15",
+        "start_time": "16:15",
+        "end_time": "16:30",
         "room": "Room A"
     }
 ]
