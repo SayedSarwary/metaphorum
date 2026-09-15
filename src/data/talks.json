@@ -17,13 +17,21 @@
     },
     {
         "id": "talk3",
+        "title": "From Organizational Viability to Regenerativeness - A methodological discourse",
+        "abstract": "Purpose: Contemporary organisational challenges increasingly transcend organisational boundaries, involving interconnected ecological, social, institutional, governance, and economic systems. While the Viable System Model (VSM) provides a powerful framework for understanding organisational viability, there remains a need for methodologies that support ecosystemic diagnosis, embeddedness, collaborative learning, intervention, and regeneration across interacting systems within an ecosystem. This paper introduces Ecosystemic Transdisciplinary Action Research (ESTAR), developed within the All Interacting Evolving Systems Science (AIESS) paradigm, as a complementary methodology for addressing these challenges.Methods: ESTAR combines ecosystemic diagnosis, transdisciplinary knowledge co-creation, participatory action research, and iterative regenerative intervention. The methodology is grounded in four foundational axioms of AIESS—interconnectedness, interdependence, interactions, and intentionality—and operationalises them by systematically identifying ecosystem dimensions, their critical factors, variables, and regenerative processes. Findings: The paper presents a methodological framework that demonstrates how ESTAR enables researchers and practitioners to diagnose evolving complexity, facilitate collaborative learning among multiple stakeholders, and design interventions that strengthen organisational viability while enhancing ecosystem balance, coherence, and regenerative capacity. The approach complements cybernetic principles by extending analysis beyond organisational recursion to the dynamics of interacting variables in an ecosystem. Implications/Contributions: ESTAR contributes an emerging methodology for organisational cybernetics by integrating systems science, transdisciplinary inquiry, and action research into a coherent ecosystemic framework. It offers a practical approach for extending VSM-informed practice toward regenerative organizations and ecosystems.",
+        "speaker_id": "s54",
+        "track_id": "t3",
+        "duration_minutes": 20
+    },
+    {
+        "id": "talk3",
         "title": "Ecosystemic Transdisciplinary Action Research: An AIESS-Based Methodology for  Regenerative Organisational Cybernetics",
         "abstract": "Purpose: Contemporary organisational challenges increasingly transcend organisational boundaries, involving interconnected ecological, social, institutional, governance, and economic systems. While the Viable System Model (VSM) provides a powerful framework for understanding organisational viability, there remains a need for methodologies that support ecosystemic diagnosis, embeddedness, collaborative learning, intervention, and regeneration across interacting systems within an ecosystem. This paper introduces Ecosystemic Transdisciplinary Action Research (ESTAR), developed within the All Interacting Evolving Systems Science (AIESS) paradigm, as a complementary methodology for addressing these challenges. Methods: ESTAR combines ecosystemic diagnosis, transdisciplinary knowledge co-creation, participatory action research, and iterative regenerative intervention. The methodology is grounded in four foundational axioms of AIESS—interconnectedness, interdependence, interactions, and intentionality—and operationalises them by systematically identifying ecosystem dimensions, their critical factors, variables, and regenerative processes. Findings: The paper presents a methodological framework that demonstrates how ESTAR enables researchers and practitioners to diagnose evolving complexity, facilitate collaborative learning among multiple stakeholders, and design interventions that strengthen organisational viability while enhancing ecosystem balance, coherence, and regenerative capacity. The approach complements cybernetic principles by extending analysis beyond organisational recursion to the dynamics of interacting variables in an ecosystem. Implications/Contributions: ESTAR contributes an emerging methodology for organisational cybernetics by integrating systems science, transdisciplinary inquiry, and action research into a coherent ecosystemic framework. It offers a practical approach for extending VSM-informed practice toward regenerative organizations and ecosystems.",
         "speaker_id": "s54",
         "track_id": "t3",
         "duration_minutes": 20
     },
-    {
+  {
         "id": "talk4",
         "title": "'The Journey of LaCoCa - A Crew Sets Sail!' - Gamification Makes the VSM an Experience - No Theory Required",
         "abstract": "Explore the innovative approach taken by BarmeniaGothaer Insurance Company (Germany) in redesigning their internal cooperation structures using the Viable System Model and cybernetic principles. Instead of traditional agile methods like Scrum, BarmeniaGothaer has implemented a unique model of self-organization and responsibility among employees structured in interdisciplinary value streams. This model has led to the development of a strategy game by three employees aimed at demonstrating the practical application of cybernetic principles in a fun and engaging way. The game designers drew the concept from the book 'The agile Organization' (translated title) by Andreas Slogar, published by Carl Hanser Verlag (2018, 2020), as a primary resource and scientific foundation.",
@@ -33,7 +41,7 @@
     },
     {
         "id": "talk5",
-        "title": "Ponds, politics and the east: Stafford Beer's cybernetics — a wider view",
+        "title": "Ponds, politics and the east: Stafford Beer's cybernetics — a wider view (keynote)",
         "abstract": "Stafford Beer is remembered today for the Viable System Model and Team Syntegrity. But his cybernetics ranged much more widely, and in this Festschrift chapter, I review some aspects of historical and contemporary significance that are in danger of being forgotten. I begin with Beer's technical contribution to the evolution of cybernetics, then turn to social and political dimensions of his work, and finally I point to the spirituality in which his work was embedded.",
         "speaker_id": "s61",
         "track_id": "t1",
@@ -385,7 +393,7 @@
     },
     {
         "id": "talk55",
-        "title": "Elevating Stafford Beer’s Legacy: A Critical Systems Thinking Perspective on the Viable System Model",
+        "title": "Elevating Stafford Beer’s Legacy: A Critical Systems Thinking Perspective on the Viable System Model (keynote)",
         "abstract": "The importance of Stafford Beer’s Viable System Model (VSM) is increasingly recognised. For this to continue, and his legacy to be enhanced, it is necessary to understand the assumptions on which the VSM is based, how the model relates to other significant contributions to systems thinking and practice, and what it can achieve. This keynote argues that Critical Systems Thinking (CST) is well placed to assist in these matters. CST embraces the philosophy of pragmatism and views the VSM as part of that tradition. It is not, on this reading, a scientific model or a ‘hermeneutic enabler’. It is useful because it has demonstrated what Dewey calls ‘warranted assertibility’. This conclusion has significant methodological implications. CST seeks to provide a critique of systems approaches based on the ‘systemic perspectives’ they privilege. On this criterion, the VSM shares an organismic orientation with socio-technical systems thinking, contingency theory, and the many contemporary descriptions of organisations as ‘living systems’. There is much to learn from these other organismic accounts although the explanatory power provided by cybernetics puts the VSM in pole position for unifying their findings and guiding the action research necessary to further develop the power of this perspective. CST argues that it is necessary to be multi-perspectival and multi-methodological in the face of real-world complexity. Clarity around the theoretical underpinnings of the VSM enables us to understand better its relationship to alternative systems approaches privileging mechanical, interrelationships, purposeful, and societal/environmental perspectives. The way forward is not to ‘expand’ the VSM (threatening its integrity), or to ‘mix’ approaches (threatening cognitive loss) to achieve ‘greater coverage’ of the various ways in which complexity announces itself, but to continue to enhance its distinct competences and become adept at using it in combination with other systems approaches in pursuit of multi-dimensional improvement. CST offers valuable insights, I believe, into how best to view and use the VSM, thus opening a clear pathway for those seeking to elevate Stafford Beer’s legacy.",
         "speaker_id": "s17",
         "track_id": "t2",
@@ -682,7 +690,7 @@
         "id": "talk95",
         "title": "From Confluence to Emergence: What Ouro Preto Made Possible ASC 2026 – Reflections, Outcomes and New Pathways",
         "abstract": "",
-        "speaker_id": "s1",
+        "speaker_id": "s29",
         "track_id": "",
         "duration_minutes": 20
     },
